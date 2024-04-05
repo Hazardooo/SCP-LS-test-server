@@ -1,0 +1,2099 @@
+{
+	"credits": [{
+			"category": "<size=80>EXECUTIVE LEADERSHIP</size>",
+			"members": [{
+					"name": "Hubert Moszka",
+					"title": "Chief Executive Officer & Game Director",
+					"color": "#FFD700"
+				},
+				{
+					"name": "Frederik \"TrueWhiteLion\" Kotzé",
+					"title": "Chief Operations Officer & PR/CM Director",
+					"color": "#68cdaa"
+				}
+			]
+		},
+		{
+			"category": "SENIOR MANAGEMENT",
+			"members": [{
+					"name": "Caitlin \"DeadlyNightshade\" Barkhuizen",
+					"title": "Human Resources Director",
+					"color": "#e2a6ff"
+				},
+				{
+					"name": "aHarmlessSpoon",
+					"title": "Assistant Human Resources Director",
+					"color": "#c67cff"
+				},
+				{
+					"name": "Thomas \"Thomasjosif\" Dick",
+					"title": "Security Director",
+					"color": "#ff6361"
+				},
+				{
+					"name": "Danstr",
+					"title": "Assistant Security Director",
+					"color": "#ff6361"
+				},
+				{
+					"name": "Ender",
+					"title": "Assistant Game Director",
+					"color": "#88dcff"
+				},
+				{
+					"name": "CuriousGeorgia",
+					"title": "Assistant Public Relations Director",
+					"color": "#93db4b"
+				},
+				{
+					"name": "VACANT",
+					"title": "Assistant Community Management Director",
+					"color": "#f2ae47"
+				}
+			]
+		},
+		{
+			"category": "<size=80>DONATORS</size>",
+			"members": [{
+					"name": "Parkeymon",
+					"title": "SCP:SL Investor",
+					"color": "#FF7580"
+				},
+				{
+					"name": "Nz",
+					"title": "SCP:SL Investor",
+					"color": "#FF7580"
+				}
+			]
+		},
+		{
+			"category": "$50+ PATREON SUPPORTERS",
+			"members": [{
+					"name": "0ybo",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Anderaxe",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Astral Starzer",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Bird1952",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Bluefirehybrid",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Bornjester",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Budgie",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "CABOOSEMADER",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "CNFR",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "『Crusaderbot』",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Daddy Jake",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "다람(Daram)",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Dawesenm",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Deadshotsniper",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Deck",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Digit Wuffs",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Dragon",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Dr.Nefario(VAR)",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Dr Edward Driptofen",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Der Kater Alex-100",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "egg-",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Fighting",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Forsaken Machinery",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "FRZN",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Gaming",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Goddess of Kittens",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Godfather Yannik",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Haywireseagull",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "High-King Kaiser57",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Hollowed",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "호류(horyu)",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "후묘(Humyo)",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Infamous1",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "ItsAlk",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Jakyr",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Jedi Time Lord",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "JG",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Kirid",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Limesly",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Lord Epsilon 11",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Mako",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Maksoto",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Meat",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Mike Hawk",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "NaterA",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "ネイト(Neito)NikoD45",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "ok yes",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "OnePanArmy",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Owen (Turt) Karls",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Paper",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Parkeymon",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "P.Flare",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Plaguey",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "ppssjj0401",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "queknees2",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Red Z",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Repeat64",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Ryo5678",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "初音早猫(sanyae2439)",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "snowkitkat",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Still [Redacted]",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Sweet Water",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Tajemniczy Typiarz",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Tam",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "The Funny",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "The God Sean",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "The Mad Doctor",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "TotallyNotAnSCP",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Thereal_boi1607",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Treehero",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "UnknownDerpyPro",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "wiggy",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Windows",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Wind Rider",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "Xenarch",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "xujceoa345",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				},
+				{
+					"name": "ZHaos",
+					"title": "Patreon Supporter",
+					"color": "#FF424D"
+				}
+			]
+		},
+		{
+			"category": "<size=80>HUMAN RESOURCES MANAGEMENT</size>",
+			"members": [{
+					"name": "Caitlin \"DeadlyNightshade\" Barkhuizen",
+					"title": "Human Resources Director",
+					"color": "#e2a6ff"
+				},
+				{
+					"name": "aHarmlessSpoon",
+					"title": "Assistant Human Resources Director",
+					"color": "#c67cff"
+				}
+			]
+		},
+		{
+			"category": "HUMAN RESOURCES",
+			"members": [{
+					"name": "Robert",
+					"title": "Human Resources Representative",
+					"color": "#b15cee"
+				},
+				{
+					"name": "Sinon",
+					"title": "Human Resources Representative",
+					"color": "#b15cee"
+				},
+				{
+					"name": "TheChemicalWolf",
+					"title": "Human Resources Representative",
+					"color": "#b15cee"
+				},
+				{
+					"name": "Chris \"GaleTsu\" Guerra",
+					"title": "Human Resources Coordinator",
+					"color": "#9658c3"
+				},
+				{
+					"name": "Michael \"Rub-a-Dub\" Gosse",
+					"title": "Human Resources Coordinator",
+					"color": "#9658c3"
+				},
+				{
+					"name": "miu",
+					"title": "Human Resources Coordinator",
+					"color": "#9658c3"
+				},
+				{
+					"name": "TheMasterK",
+					"title": "Human Resources Coordinator",
+					"color": "#9658c3"
+				}
+			]
+		},
+		{
+			"category": "<size=80>DEVELOPMENT</size>",
+			"members": [{
+					"name": "Hubert Moszka",
+					"title": "Game Director",
+					"color": "#78e8ff"
+				},
+				{
+					"name": "Ender",
+					"title": "Assistant Game Director",
+					"color": "#88dcff"
+				}
+			]
+		},
+		{
+			"category": "PROGRAMMING",
+			"members": [{
+					"name": "VACANT",
+					"title": "Programming Manager",
+					"color": "#65c6fa"
+				},
+				{
+					"name": "Sebastián \"Beryl\" Feola",
+					"title": "Programming Team Lead",
+					"color": "#5eb7f6"
+				},
+				{
+					"name": "Ced777ric",
+					"title": "Programming Supervisor",
+					"color": "#56a8f2"
+				},
+				{
+					"name": "Arith",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Decimalis",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Jesus-QC",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Joshua \"Mith\" Mathews",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Killers0996",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Maksymilian Sroka",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Michal78900",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				},
+				{
+					"name": "Thomas \"Thomasjosif\" Dick",
+					"title": "Programmer",
+					"color": "#4f9aee"
+				}
+			]
+		},
+		{
+			"category": "GAME DESIGN",
+			"members": [{
+					"name": "Jessica \"cross-conception\" Thrustle",
+					"title": "Game Design Manager",
+					"color": "#478be9"
+				},
+				{
+					"name": "Everett \"x3j50\" Kristophe",
+					"title": "Game Design Supervisor",
+					"color": "#407ce5"
+				},
+				{
+					"name": "Ryan \"pl1120\" McKee",
+					"title": "Game Design Supervisor",
+					"color": "#407ce5"
+				},
+				{
+					"name": "AllEyes",
+					"title": "Narrative Designer",
+					"color": "#396ee1"
+				},
+				{
+					"name": "EyeOpener",
+					"title": "Narrative Designer",
+					"color": "#396ee1"
+				},
+				{
+					"name": "Naveil",
+					"title": "Narrative Designer",
+					"color": "#396ee1"
+				},
+				{
+					"name": "Benjamin \"SimpleWolf\" Price",
+					"title": "Game Designer",
+					"color": "#2959e0"
+				},
+				{
+					"name": "Brendan \"UIU\" Nicholls",
+					"title": "Game Designer",
+					"color": "#2959e0"
+				},
+				{
+					"name": "Malcolm \"Orhu\" McDonough",
+					"title": "Game Designer",
+					"color": "#2959e0"
+				},
+				{
+					"name": "Tyler \"Lisp\" Dupree",
+					"title": "Game Designer",
+					"color": "#2959e0"
+				}
+			]
+		},
+		{
+			"category": "ART",
+			"members": [{
+					"name": "Michael \"Mikel\" Galeoto",
+					"title": "Art Manager",
+					"color": "#98b2ff"
+				},
+				{
+					"name": "Maxime \"Moranatol\" Peyrondet",
+					"title": "Art Supervisor",
+					"color": "#7f95ef"
+				},
+				{
+					"name": "Cristian \"Weird\" del Real",
+					"title": "Artist",
+					"color": "#6375dc"
+				},
+				{
+					"name": "Jonathan \"Murmur\" Murray",
+					"title": "Artist",
+					"color": "#6375dc"
+				},
+				{
+					"name": "Kanf",
+					"title": "Freelance Artist",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Maria \"Ayveris\" Musińska",
+					"title": "Freelance Artist",
+					"color": "#8D8888"
+				}
+			]
+		},
+		{
+			"category": "Level Design",
+			"members": [{
+					"name": "Brendan \"UIU\" Nicholls",
+					"title": "Level Design Manager",
+					"color": "#7b77ff"
+				},
+				{
+					"name": "Jegg",
+					"title": "Level Designer",
+					"color": "#4646ca"
+				},
+				{
+					"name": "Jessica \"cross-conception\" Thrustle",
+					"title": "Level Designer",
+					"color": "#4646ca"
+				},
+				{
+					"name": "MajorFox",
+					"title": "Level Designer",
+					"color": "#4646ca"
+				},
+				{
+					"name": "Michael \"Mikel\" Galeoto",
+					"title": "Level Designer",
+					"color": "#4646ca"
+				}
+			]
+		},
+		{
+			"category": "QUALITY ASSURANCE",
+			"members": [{
+					"name": "VACANT",
+					"title": "Quality Assurance Manager",
+					"color": "#9f88ff"
+				},
+				{
+					"name": "Multiverse Uncle",
+					"title": "Quality Assurance Supervisor",
+					"color": "#8066ff"
+				},
+				{
+					"name": "Astral Starzer",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Banzai",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Cynthrune",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "hom",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "MajorFox",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "M4st3r0re",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Nakumotte",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Red Z",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Terran",
+					"title": "Wiki Coordinator",
+					"color": "#1e832f"
+				},
+				{
+					"name": "Tychus \"骁奕\" Xiaoyi",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				},
+				{
+					"name": "Xela",
+					"title": "Quality Assurance Tester",
+					"color": "#6950c2"
+				}
+			]
+		},
+		{
+			"category": "AUDIO",
+			"members": [{
+					"name": "Brendan \"Scot\" O'Dowd",
+					"title": "Audio Manager",
+					"color": "#ff6caa"
+				},
+				{
+					"name": "Keirdan \"AudioDread\" Jenson",
+					"title": "Audio Technical Lead",
+					"color": "#e6498c"
+				},
+				{
+					"name": "Burnert",
+					"title": "Sound Designer",
+					"color": "#a53465"
+				},
+				{
+					"name": "Red Solarflare",
+					"title": "Sound Designer",
+					"color": "#a53465"
+				},
+				{
+					"name": "Sixxy",
+					"title": "Sound Designer",
+					"color": "#a53465"
+				},
+				{
+					"name": "Narlor",
+					"title": "CASSIE Voice Actor",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Sam \"Doggdemon\" East",
+					"title": "Freelance Voice Actor",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Kocmouch",
+					"title": "Freelance Voice Actor",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Gamez John",
+					"title": "Freelance Voice Actor",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Mother",
+					"title": "Freelance Voice Actor",
+					"color": "#8D8888"
+				},
+				{
+					"name": "Wizz Da Burrito Boy",
+					"title": "Freelance Voice Actor",
+					"color": "#8D8888"
+				}
+			]
+		},
+		{
+			"category": "<size=80>SECURITY</size>",
+			"members": [{
+					"name": "Thomas \"Thomasjosif\" Dick",
+					"title": "Security Director",
+					"color": "#ff6361"
+				},
+				{
+					"name": "Danstr",
+					"title": "Assistant Security Director",
+					"color": "#eb5351"
+				}
+			]
+		},
+		{
+			"category": "SYSTEM ADMINISTRATION",
+			"members": [{
+					"name": "Takail",
+					"title": "System Administration Manager",
+					"color": "#ff4f6c"
+				},
+				{
+					"name": "Aidan \"SirMeepington\" Crooks",
+					"title": "System Administrator",
+					"color": "#c42c45"
+				},
+				{
+					"name": "Keyinator",
+					"title": "System Administrator",
+					"color": "#c42c45"
+				},
+				{
+					"name": "Thomas \"Thomasjosif\" Dick",
+					"title": "System Administrator",
+					"color": "#c42c45"
+				},
+				{
+					"name": "Zenlet",
+					"title": "System Administrator",
+					"color": "#c42c45"
+				}
+			]
+		},
+		{
+			"category": "ANTI-CHEAT DEVELOPMENT",
+			"members": [{
+					"name": "Giuseppe \"Deputation\" S.",
+					"title": "Anti-Cheat Manager",
+					"color": "#ef4253"
+				},
+				{
+					"name": "Petris",
+					"title": "Anti-Cheat Developer",
+					"color": "#b72634"
+				}
+			]
+		},
+		{
+			"category": "WEB DEVELOPMENT ",
+			"members": [{
+					"name": "stwx.",
+					"title": "Web Development Manager",
+					"color": "#dc373d"
+				},
+				{
+					"name": "Front",
+					"title": "Web Development Supervisor",
+					"color": "#ba262b"
+				},
+				{
+					"name": "Tz",
+					"title": "Web Developer",
+					"color": "#8f2428"
+				},
+				{
+					"name": "X3rt",
+					"title": "Web Developer",
+					"color": "#8f2428"
+				}
+			]
+		},
+		{
+			"category": "OFFICIAL SERVER MODERATION",
+			"members": [{
+					"name": "TheMasterK",
+					"title": "Official Server Manager",
+					"color": "#ff5c85"
+				},
+				{
+					"name": "Nekomeowncer",
+					"title": "Official Server Supervisor",
+					"color": "#d23b61"
+				},
+				{
+					"name": "Kit-Kat",
+					"title": "Official Server Supervisor",
+					"color": "#d23b61"
+				},
+				{
+					"name": "cat",
+					"title": "Official Server Senior Moderator",
+					"color": "#b5264a"
+				},
+				{
+					"name": "Dacted",
+					"title": "Official Server Senior Moderator",
+					"color": "#b5264a"
+				},
+				{
+					"name": "Gibu",
+					"title": "Official Server Senior Moderator",
+					"color": "#b5264a"
+				}
+			]
+		},
+		{
+			"category": "GLOBAL MODERATION",
+			"members": [{
+					"name": "VACANT",
+					"title": "Global Moderation Manager",
+					"color": "#ff5650"
+				},
+				{
+					"name": "Joshua \"ZirconZer0\" Chan",
+					"title": "Global Moderation Supervisor",
+					"color": "#ce3c3c"
+				},
+				{
+					"name": "Andimal",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Beese",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Dylan \"Voidus\" Salvage",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Jacob",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Peri",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Phoenix",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				},
+				{
+					"name": "Takail",
+					"title": "Global Moderator",
+					"color": "#aa262b"
+				}
+			]
+		},
+		{
+			"category": "VERIFICATION",
+			"members": [{
+					"name": "Joseph",
+					"title": "Verification Manager",
+					"color": "#ec4e36"
+				},
+				{
+					"name": "Budgie",
+					"title": "Verification Supervisor",
+					"color": "#cf361c"
+				},
+				{
+					"name": "Nakumotte",
+					"title": "Verification Supervisor",
+					"color": "#cf361c"
+				},
+				{
+					"name": "XoMiya",
+					"title": "Verification Supervisor",
+					"color": "#cf361c"
+				},
+				{
+					"name": "Beese",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Cynicya",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Jacob",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Łukasz Klapek",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Michael \"Rub-a-Dub\" Gosse",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Raptor",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				},
+				{
+					"name": "Tychus \"骁奕\" Xiaoyi",
+					"title": "Verification Specialist",
+					"color": "#a02c1a"
+				}
+			]
+		},
+		{
+			"category": "<size=80>PUBLIC RELATIONS</size>",
+			"members": [{
+					"name": "Frederik \"TrueWhiteLion\" Kotzé",
+					"title": "Public Relations Director",
+					"color": "#b7ff7e"
+				},
+				{
+					"name": "CuriousGeorgia",
+					"title": "Assistant Public Relations Director",
+					"color": "#93db4b"
+				}
+			]
+		},
+		{
+			"category": "CONTENT EDITING",
+			"members": [{
+					"name": "LOstSTar",
+					"title": "Content Manager",
+					"color": "#98b314"
+				},
+				{
+					"name": "CR1TM0N3Y",
+					"title": "Content Editor",
+					"color": "#617308"
+				},
+				{
+					"name": "Sarah \"Quesarah7\" Mason",
+					"title": "Content Editor",
+					"color": "#617308"
+				}
+			]
+		},
+		{
+			"category": "FEEDBACK COORDINATION",
+			"members": [{
+					"name": "Red Z",
+					"title": "Feedback Manager",
+					"color": "#58b314"
+				},
+				{
+					"name": "Whimza",
+					"title": "Feedback Supervisor",
+					"color": "#438e0a"
+				},
+				{
+					"name": "Bullet",
+					"title": "Feedback Coordinator",
+					"color": "#2d6701"
+				},
+				{
+					"name": "Kuna \"Ember\" Cohen",
+					"title": "Feedback Coordinator",
+					"color": "#2d6701"
+				},
+				{
+					"name": "LC",
+					"title": "Feedback Coordinator",
+					"color": "#2d6701"
+				},
+				{
+					"name": "Madeline Stewart",
+					"title": "Feedback Coordinator",
+					"color": "#2d6701"
+				}
+			]
+		},
+		{
+			"category": "WIKI COORDINATION",
+			"members": [{
+					"name": "Hoang",
+					"title": "Wiki Manager",
+					"color": "#30b646"
+				},
+				{
+					"name": "Draconocor",
+					"title": "Wiki Coordinator",
+					"color": "#1e832f"
+				},
+				{
+					"name": "Lasse \"Argus\" Kurki",
+					"title": "Wiki Coordinator",
+					"color": "#1e832f"
+				},
+				{
+					"name": "Łukasz Klapek",
+					"title": "Wiki Coordinator",
+					"color": "#1e832f"
+				},
+				{
+					"name": "Terran",
+					"title": "Wiki Coordinator",
+					"color": "#1e832f"
+				}
+			]
+		},
+		{
+			"category": "MARKETING",
+			"members": [{
+					"name": "Orrical",
+					"title": "Marketing Manager",
+					"color": "#27b870"
+				},
+				{
+					"name": "Miu",
+					"title": "Marketing Supervisor",
+					"color": "#1e9f5e"
+				},
+				{
+					"name": "Crazy",
+					"title": "Marketing Specialist",
+					"color": "#178b51"
+				},
+				{
+					"name": "Davgnz",
+					"title": "Marketing Specialist",
+					"color": "#178b51"
+				},
+				{
+					"name": "Frederik \"TrueWhiteLion\" Kotzé",
+					"title": "Marketing Specialist",
+					"color": "#10783e"
+				},
+				{
+					"name": "Izzy",
+					"title": "Marketing Specialist",
+					"color": "#178b51"
+				},
+				{
+					"name": "Matree",
+					"title": "Marketing Specialist",
+					"color": "#178b51"
+				},
+				{
+					"name": "Kilroy",
+					"title": "Promotional Materials Specialist",
+					"color": "#10783e"
+				},
+				{
+					"name": "Weeble Wobbles",
+					"title": "Marketing Specialist",
+					"color": "#178b51"
+				}
+			]
+		},
+		{
+			"category": "PATREON COORDINATION",
+			"members": [{
+					"name": "Lisp",
+					"title": "Patreon Manager",
+					"color": "#17b94d"
+				},
+				{
+					"name": "VACANT",
+					"title": "Patreon Supervisor",
+					"color": "#0e9039"
+				},
+				{
+					"name": "Chris \"GaleTsu\" Guerra",
+					"title": "Patreon Representative",
+					"color": "#0b692a"
+				},
+				{
+					"name": "Dylan \"Voidus\" Salvage",
+					"title": "Patreon Representative",
+					"color": "#0b692a"
+				},
+				{
+					"name": "Frederik \"TrueWhiteLion\" Kotzé",
+					"title": "Patreon Representative",
+					"color": "#0b692a"
+				}
+			]
+		},
+		{
+			"category": "SOCIAL MEDIA COORDINATION",
+			"members": [{
+					"name": "Miu",
+					"title": "Social Media Manager",
+					"color": "#20b677"
+				},
+				{
+					"name": "VACANT",
+					"title": "Social Media Supervisor",
+					"color": "#1a905f"
+				}
+			]
+		},
+		{
+			"category": "TRANSLATION MAINTENANCE",
+			"members": [{
+					"name": "DrJamón",
+					"title": "Translation Manager",
+					"color": "#38af91"
+				},
+				{
+					"name": "Red Z",
+					"title": "Translation Supervisor",
+					"color": "#1e9884"
+				},
+				{
+					"name": "Tychus \"骁奕\" Xiaoyi",
+					"title": "Translation Supervisor",
+					"color": "#1e9884"
+				},
+				{
+					"name": "Ankris",
+					"title": "Translation Coordinator",
+					"color": "#128077"
+				},
+				{
+					"name": "Bay",
+					"title": "Translation Coordinator",
+					"color": "#128077"
+				},
+				{
+					"name": "Dellarie",
+					"title": "Translation Coordinator",
+					"color": "#128077"
+				}
+			]
+		},
+		{
+			"category": "<size=80>COMMUNITY MANAGEMENT</size>",
+			"members": [{
+					"name": "Frederik \"TrueWhiteLion\" Kotzé",
+					"title": "Community Management Director",
+					"color": "#ffc977"
+				},
+				{
+					"name": "VACANT",
+					"title": "Assistant Community Management Director",
+					"color": "#f2ae47"
+				}
+			]
+		},
+		{
+			"category": "REDDIT MODERATION",
+			"members": [{
+					"name": "Khaos",
+					"title": "Reddit Moderator",
+					"color": "#ca541e"
+				},
+				{
+					"name": "Joshua \"ZirconZer0\" Chan",
+					"title": "Reddit Moderator",
+					"color": "#ca541e"
+				},
+				{
+					"name": "Multiverse Uncle",
+					"title": "Reddit Moderator",
+					"color": "#ca541e"
+				},
+				{
+					"name": "Giuseppe \"Deputation\" S.",
+					"title": "Reddit Moderator",
+					"color": "#ca541e"
+				}
+			]
+		},
+		{
+			"category": "DISCORD MODERATION",
+			"members": [{
+					"name": "Dj_Nathan_",
+					"title": "Discord Manager",
+					"color": "#d27211"
+				},
+				{
+					"name": "hom",
+					"title": "Discord Supervisor",
+					"color": "#a95909"
+				},
+				{
+					"name": "Astral Starzer",
+					"title": "Discord Supervisor",
+					"color": "#a95909"
+				},
+				{
+					"name": "Andimal",
+					"title": "Discord Supervisor",
+					"color": "#a95909"
+				},
+				{
+					"name": "Return of Nothing",
+					"title": "Discord Supervisor",
+					"color": "#a95909"
+				},
+				{
+					"name": "Auro",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "cat",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "Crimson",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "Cynicya",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "Plank",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "Reaper1357531",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				},
+				{
+					"name": "Thomas \"Thomas\" Terziu",
+					"title": "Discord Moderator",
+					"color": "#8d4802"
+				}
+			]
+		},
+		{
+			"category": "BOT ENGINEERING",
+			"members": [{
+					"name": "MASONIC",
+					"title": "Bot Engineer Manager",
+					"color": "#e08200"
+				},
+				{
+					"name": "Keyinator",
+					"title": "Bot Engineer",
+					"color": "#9d5c00"
+				}
+			]
+		},
+		{
+			"category": "STEAM MODERATION",
+			"members": [{
+					"name": "Joshua \"ZirconZer0\" Chan",
+					"title": "Steam Manager",
+					"color": "#d99100"
+				},
+				{
+					"name": "Reshiram",
+					"title": "Steam Supervisor",
+					"color": "#8c5d00"
+				},
+				{
+					"name": "Multiverse Uncle",
+					"title": "Steam Staff",
+					"color": "#8c5d00"
+				},
+				{
+					"name": "Michael \"Rub-a-Dub\" Gosse",
+					"title": "Steam Staff",
+					"color": "#8c5d00"
+				},
+				{
+					"name": "Plank",
+					"title": "Steam Staff",
+					"color": "#8c5d00"
+				},
+				{
+					"name": "rammy",
+					"title": "Steam Staff",
+					"color": "#8c5d00"
+				}
+			]
+		},
+		{
+			"category": "TECHNICAL SUPPORT",
+			"members": [{
+					"name": "Ryan \"pl1120\" McKee",
+					"title": "Technical Support Manager",
+					"color": "#e6ac00"
+				},
+				{
+					"name": "Zenlet",
+					"title": "Technical Support Supervisor",
+					"color": "#b78a00"
+				},
+				{
+					"name": "Andimal",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Bacon",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Crazy",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Crimson",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Cynthrune",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Dominikk",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "GBN",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Return of Nothing",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "rxtnshi",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Sigma_Scorpii",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Tino",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				},
+				{
+					"name": "Xela",
+					"title": "Technical Support Specialist",
+					"color": "#a57b12"
+				}
+			]
+		},
+		{
+			"category": "<size=80>MISCELLANEOUS</size>",
+			"members": []
+		},
+		{
+			"category": "SPECIAL THANKS",
+			"members": [{
+					"name": "Alexander \"Welknair\" Veneruso",
+					"title": "Former Executive Assistant",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "bimo",
+					"title": "Former Human Resources Director",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Łukasz \"zabszk\" Jurczyk",
+					"title": "Former Chief Information Officer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Desteris",
+					"title": "Former Community Director",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Zachary \"Chef Linguini\" Porter",
+					"title": "Former Human Resources Assistant",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Daniel \"King Nothing\" Hernandez-Otero",
+					"title": "Former Game Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "ash-zsh",
+					"title": "Former Gameplay + Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Butterscotch!",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Even \"Evan\" Berg",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "KarlofDuty",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kigen",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kristinn Vikar",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kognity",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "ShingekiNoRex",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Petris",
+					"title": "Former Backend Programmer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Apex",
+					"title": "Former Game Designer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Divinity",
+					"title": "Former Game Designer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "VESS",
+					"title": "Former Art Director",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Rowan \"Sin\" Higgs",
+					"title": "Former Art Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "cheese",
+					"title": "Former Artist",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Even \"Evan\" Berg",
+					"title": "Former Level Designer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Frisky",
+					"title": "Former Level Designer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Bronsolo",
+					"title": "Former Sound Designer",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Nicku",
+					"title": "Former Global Moderation Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Arxela",
+					"title": "Former Content Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Dylan \"Voidus\" Salvage",
+					"title": "Former Marketing Platform Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Reshiram",
+					"title": "Former Discord Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Khaos",
+					"title": "Former Technical Support Manager",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "VANKO",
+					"title": "Networking Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "stopierwszy",
+					"title": "General Engine Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "JonaseQ",
+					"title": "Server System Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "wanna-amigo",
+					"title": "Substantive Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Miś",
+					"title": "Substantive Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Ozyr",
+					"title": "Substantive Support",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Chucken",
+					"title": "Character Design",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "EXILED Developers",
+					"title": "Server Idle Mode",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Northwood Community Helpers",
+					"title": "Massive Contributions",
+					"color": "#8137CE"
+				},
+				{
+					"name": "All previously unnamed former Northwood Staff",
+					"title": "Massive Contributions",
+					"color": "#005EBC"
+				}
+			]
+		},
+		{
+      			"category": "3RD PARTY ASSETS CREATORS",
+			"members": [{
+         				 "name": "https://scp-wiki.wikidot.com",
+         				 "title": "SCP Wiki",
+         				 "color": "#FFFFFF"
+       				 },
+       				 {
+         				 "name": "http://scp-pl.wikidot.com",
+         				 "title": "Polish SCP Wiki",
+         				 "color": "#FFFFFF"
+       				 },
+       				 {
+         				 "name": "https://scpcbgame.com/",
+         				 "title": "SCP - Containment Breach",
+         				 "color": "#FFFFFF"
+				 },
+       				 {
+         				 "name": "Unity Technologies",
+         				 "title": "Unity Engine",
+         				 "color": "#FFFFFF"
+				 },
+       				 {
+         				 "name": "Discord",
+         				 "title": "Discord Game SDK & Discord RPC",
+         				 "color": "#FFFFFF"
+				 },
+       				 {
+         				 "name": "Hubert Moszka & SCP: Secret Laboratory Developers",
+         				 "title": "Source Code",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Northwood Studios",
+         				 "title": "SCPSL.exe & SL-AC.dll (Custom SCP:SL Launcher & Anticheat)",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Northwood Studios",
+         				 "title": "NwPluginAPI (PluginAPI.dll)",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Łukasz \"zabszk\" Jurczyk",
+         				 "title": "LocalAdmin",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Łukasz \"zabszk\" Jurczyk",
+         				 "title": "DnsClient",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Unity Technologies, vis2k, Paul & Contributors",
+         				 "title": "Mirror",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "G.G. \"Maid Of Metal\" Rose",
+         				 "title": "SCP-939 Voicelines",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "David \"moonmunk\" Costello",
+         				 "title": "SCP-3114 Voicelines",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Keijiro \"KinoGlitch\" Takahashi",
+         				 "title": "Camera Glitch Effect",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Ruslan Pyrch",
+         				 "title": "LiteNetLib",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Antoine Aubry & Contributors",
+         				 "title": "YamlDotNet",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Teal Rogers",
+         				 "title": "MEC Pro (More Effective Coroutines Pro)",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Salty Devs",
+         				 "title": "Headless Builder",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+         				 "name": "Antoine Aubry & Contributors",
+         				 "title": "YamlDotNet",
+         				 "color": "#FFFFFF"
+        				 },
+        				 {
+          				"name": "Artjoms Zenins",
+          				"title": "First Person View Animator",
+          				"color": "#FFFFFF"
+       				 },
+				 {
+         				 "name": "Bronsolo",
+          				"title": "SCP-096 Voice Actor",
+         				 "color": "#FFFFFF"
+       				 },
+        				 {
+          				"name": "RiriLeTiroir",
+          				"title": "173 + 939 Ability Icons",
+         				 "color": "#FFFFFF"
+        				 },
+       				 {
+          				"name": "ventpixel",
+          				"title": "Achievement Icon Designer",
+          				"color": "#FFFFFF"
+       				 },
+       				 {
+          				"name": "AJOURA",
+          				"title": "Alpha Warhead Theme",
+          				"color": "#FFFFFF"
+       				 },
+       				 {
+          				"name": "WickyTheUnicorn",
+          				"title": "Graphic Design Contributions",
+         				 "color": "#FFFFFF"
+        				},
+        				{
+         				 "name": "Facepunch Studios",
+         				 "title": "Facepunch.Steamworks",
+          				"color": "#FFFFFF"
+       				 },
+       				 {
+         				 "name": "Xiph.Org Foundation",
+          				"title": "Opus",
+         				 "color": "#FFFFFF"
+        				},
+       				{
+         				 "name": "Xiph.Org Foundation",
+          				"title": "RNNoise",
+         				 "color": "#FFFFFF"
+        				},
+        				{
+         				 "name": "The Legion of the Bouncy Castle",
+         				 "title": "Bouncy Castle C# API",
+          				"color": "#FFFFFF"
+       				},
+        				{
+         				 "name": "Kamil Monicz",
+         				 "title": "CloudflareSolverRe",
+          				"color": "#FFFFFF"
+       				},
+        				{
+         				 "name": "tkmn0",
+         				 "title": "Caress.Unity",
+          				"color": "#FFFFFF"
+       				},
+        				{
+         				 "name": "Yoshifumi Kawai",
+         				 "title": "Utf8Json",
+          				"color": "#FFFFFF"
+       				},
+       				{
+          				"name": "Michael \"micjahn\" Jahn",
+          				"title": "ZXing.Net",
+         				 "color": "#FFFFFF"
+        				},
+       				{
+          				"name": "Alexei Shcherbakov",
+          				"title": "Software",
+         				 "color": "#FFFFFF"
+        				},
+       				{
+          				"name": "Mono Project Developers",
+          				"title": "Libraries",
+         				 "color": "#FFFFFF"
+        				},
+        				{
+          				"name": "Christian Robertson",
+          				"title": "Roboto and Roboto Mono fonts",
+         				 "color": "#FFFFFF"
+        				},
+        				{
+          				"name": "Google",
+         				 "title": "Noto Sans Font",
+         				 "color": "#FFFFFF"
+        				},
+        				{
+          				"name": "Fonticons Inc.",
+         				 "title": "FontAwesome Icons",
+         				 "color": "#FFFFFF"
+        				},
+         				{
+          				"name": "Licenses details can be found in \"license.txt\" file.",
+         				 "title": "",
+          				"color": ""
+				}
+			]
+		},
+		{
+			"category": "SCP - CONTAINMENT BREACH DEVS",
+			"members": [{
+					"name": "Joonas Rikkonen",
+					"title": "Undertow Games",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Vane Brain",
+					"title": "Third Subvision Studio",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "gmodfan11",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Catnipbuddy",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "philip45",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "FragdaddyXXL",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "FireFox",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Walach",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Reilly Grindle",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Brandon Smith",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Hakkla",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Ryan Stillings",
+					"title": "Containment Breach Contributor",
+					"color": "#FFFFFF"
+				}
+			]
+		},
+		{
+			"category": "PRE-ALPHA TESTERS",
+			"members": [{
+					"name": "Adve",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "bartoszewski",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "barwa",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Buszmen",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Chudy",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "eybi",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kinro",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Gabor",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Haksan",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kamiloza",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "KebabKuba",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "kewinfun",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "koweq",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Kryxos",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "krzechix",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Masteruś",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Morizet",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "NarVo",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Nasaan",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Nasto",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Przemysław",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Remu",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "RGPlay",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Rowell",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Shibo",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Teluś",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				},
+				{
+					"name": "Zytter",
+					"title": "Pre-alpha Tester",
+					"color": "#FFFFFF"
+				}
+			]
+		}
+    ]
+}
