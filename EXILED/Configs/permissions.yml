@@ -1,22 +1,30 @@
 user:
   default: true
-  inheritance: [ ]
+  inheritance: []
   permissions:
-    - testplugin.user
-
+  - testplugin.user
 owner:
-  inheritance: [ ]
+  default: false
+  inheritance: []
   permissions:
-    - .*
-
+  - .*
+  - at.kill
 admin:
+  default: false
   inheritance:
-    - moderator
+  - moderator
   permissions:
-    - testplugin.admin
-    - testplugin.*
-
+  - .*
 moderator:
-  inheritance: [ ]
+  default: false
+  inheritance: []
   permissions:
-    - testplugin.moderator
+  - at.hp
+  - PlayerPermissions.PlayersManagement
+  - at.tut
+stajer:
+  default: false
+  inheritance: []
+  permissions:
+  - at.hp
+  - at.tut
