@@ -5,14 +5,14 @@ player_list_title: default
 player_list_title_rate: default
 serverinfo_pastebin_id: 7wV681fT
 server_ip: auto
-max_players: 20
+max_players: 30
 server_tickrate: 60
 use_reserved_slots: true
 lobby_waiting_time: default
 use_native_sockets: true
-ipv4_bind_ip: 0.0.0.0
+ipv4_bind_ip: 51.250.120.103
 ipv6_bind_ip: ::
-contact_email: default
+contact_email: igor5igor6@gmail.com
 
 #Spawn settings
 minimum_MTF_time_to_spawn: 280
@@ -88,7 +88,7 @@ map_seed: -1
 
 #Misc gameplay settings
 intercom_cooldown: 120
-intercom_max_speech_time: 20
+intercom_max_speech_time: 30
 auto_round_restart_time: 10
 friendly_fire: false
 friendly_fire_multiplier: 0.4
@@ -111,7 +111,7 @@ cuffed_escapee_change_team: true
 pd_exit_count: 2
 
 #How many seconds someone is AFK sitting in their spawn location before they are kicked. Set to 0 or lower to disable. (Due to the 079 intro screen 079 has 13 extra seconds to be AFK.)
-afk_time: 90
+afk_time: 50
 constantly_check_afk: false
 afk_kick_message: AFK
 
@@ -362,12 +362,12 @@ idle_mode_preauth_time: 30000
 idle_mode_tickrate: 1
 
 #Player report
-report_send_using_discord_webhook: false
-report_discord_webhook_url: PleaseSetWebhookUrlHere
+report_send_using_discord_webhook: true
+report_discord_webhook_url: https://discord.com/api/webhooks/1226197377187319808/ONO-5XBxKJRMihjWOABlMxc2OwGCJDj48-OMxZANzd11uz9hJsPNEgqxyTQ1-ftVOjgD
 report_username: Cheater Report
 report_avatar_url: default
 report_color: 14423100
-report_server_name: My SCP:SL Server
+report_server_name: Asriel`s Realm
 report_header: Player Report
 report_content: Player has just been reported.
 
