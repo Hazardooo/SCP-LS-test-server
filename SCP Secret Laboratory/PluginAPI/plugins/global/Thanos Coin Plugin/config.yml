@@ -1,4 +1,0 @@
-# Set to true if players should be killed when coin lands on tails instead of heads
-coin_kill_on_tails: true
-# Death reason to display on death screen and body inspection
-balance_reason: Ебать ты лох!
