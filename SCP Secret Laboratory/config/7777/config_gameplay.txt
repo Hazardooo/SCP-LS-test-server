@@ -3,7 +3,7 @@ server_name: Asriel`s <color=purple>Realm</color>
 #default - uses server_name
 player_list_title: default
 player_list_title_rate: default
-serverinfo_pastebin_id: 7wV681fT
+serverinfo_pastebin_id: UP58eJrm
 server_ip: auto
 max_players: 30
 server_tickrate: 60
