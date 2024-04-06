@@ -6,6 +6,7 @@ Members:
  - AnotherSteamId64@steam: admin
  - SomeDiscordUserId@discord: moderator
  - 76561198170356501@steam: owner
+ - 292999973513986049@discord: owner
 
 
 #Should Secret Lab development staff be able to use the Remote Admin?
@@ -31,60 +32,69 @@ enable_banteam_bypass_geoblocking: true
 #kick_power is the power for kicking and banning that the member of this group has (can be from 0 to 255)
 #required_kick_power is the required kick power to kick or ban a member of this group (can be from 0 to 255)
 
-owner_badge: SERVER OWNER
-owner_color: red
+owner_badge: Твой Хозяин
+owner_color: pink
 owner_cover: true
 owner_hidden: false
 owner_kick_power: 255
 owner_required_kick_power: 255
 
-admin_badge: ADMIN
+admin_badge: Зам. Хозяина
 admin_color: red
 admin_cover: true
 admin_hidden: false
-admin_kick_power: 1
-admin_required_kick_power: 2
+admin_kick_power: 255
+admin_required_kick_power: 255
 
-moderator_badge: MODERATOR
-moderator_color: silver
+moderator_badge: Модератор
+moderator_color: green
 moderator_cover: true
 moderator_hidden: false
-moderator_kick_power: 0
-moderator_required_kick_power: 1
+moderator_kick_power: 200
+moderator_required_kick_power: 250
+
+stajer_badge: Стажёр
+stajer_color: cyan
+stajer_cover: true
+stajer_hidden: false
+stajer_kick_power: 100
+stajer_required_kick_power: 250
+
 
 #And add them to the roles list
 Roles:
  - owner
  - admin
  - moderator
+ - stajer
 
 #Let's setup permissions for roles
 #More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
 Permissions:
- - KickingAndShortTermBanning: [owner, admin, moderator]
- - BanningUpToDay: [owner, admin, moderator]
+ - KickingAndShortTermBanning: [owner, admin, moderator, stajer]
+ - BanningUpToDay: [owner, admin, moderator, stajer]
  - LongTermBanning: [owner, admin]
- - ForceclassSelf: [owner, admin, moderator]
- - ForceclassToSpectator: [owner, admin, moderator]
- - ForceclassWithoutRestrictions: [owner, admin]
+ - ForceclassSelf: [owner, admin, moderator, stajer]
+ - ForceclassToSpectator: [owner, admin, moderator, stajer]
+ - ForceclassWithoutRestrictions: [owner, admin, stajer]
  - GivingItems: [owner, admin]
  - WarheadEvents: [owner, admin, moderator]
  - RespawnEvents: [owner, admin]
  - RoundEvents: [owner, admin, moderator]
- - SetGroup: [owner]
+ - SetGroup: [owner, admin]
  - GameplayData: [owner, admin]
- - Overwatch: [owner, admin, moderator]
- - FacilityManagement: [owner, admin, moderator]
- - PlayersManagement: [owner, admin]
+ - Overwatch: [owner, admin, moderator, stajer]
+ - FacilityManagement: [owner, admin, moderator, stajer]
+ - PlayersManagement: [owner, admin, moderator, stajer]
  - PermissionsManagement: [owner]
  - ServerConsoleCommands: []
- - ViewHiddenBadges: [owner, admin, moderator]
+ - ViewHiddenBadges: [owner, admin, moderator, stajer]
  - ServerConfigs: [owner]
- - Broadcasting: [owner, admin, moderator]
- - PlayerSensitiveDataAccess: [owner, admin, moderator]
- - Noclip: [owner, admin]
- - AFKImmunity: [owner, admin]
- - AdminChat: [owner, admin, moderator]
+ - Broadcasting: [owner, admin, moderator, stajer]
+ - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer]
+ - Noclip: [owner, admin, stajer]
+ - AFKImmunity: [owner, admin, moderator, stajer]
+ - AdminChat: [owner, admin, moderator, stajer]
  - ViewHiddenGlobalBadges: [owner, admin, moderator]
  - Announcer: [owner, admin]
  - Effects: [owner, admin]

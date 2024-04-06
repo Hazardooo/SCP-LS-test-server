@@ -1,5 +1,5 @@
 #Server main settings
-server_name: My Server Name
+server_name: Asriel`s <color=purple>Realm</color>
 #default - uses server_name
 player_list_title: default
 player_list_title_rate: default
