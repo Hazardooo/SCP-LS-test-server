@@ -10,7 +10,7 @@ server_tickrate: 60
 use_reserved_slots: true
 lobby_waiting_time: default
 use_native_sockets: true
-ipv4_bind_ip: 51.250.120.103
+ipv4_bind_ip: 0.0.0.0
 ipv6_bind_ip: ::
 contact_email: igor5igor6@gmail.com
 

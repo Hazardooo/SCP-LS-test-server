@@ -1,0 +1,18 @@
+2024-04-06 12:38:58.737Z | Internal            | Logger         | Started logging.
+2024-04-06 12:38:58.737Z | Internal            | Logger         | Game version: 13.4.2.
+2024-04-06 12:38:58.739Z | Internal            | Logger         | Build type: Release.
+2024-04-06 12:38:58.739Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
+2024-04-06 12:38:58.739Z | Internal            | Logger         | Headless: True.
+2024-04-06 12:39:04.143Z | Connection update   | Networking     | 76561198257036897@steam preauthenticated from endpoint 178.140.72.76:54818.
+2024-04-06 12:39:11.330Z | Connection update   | Networking     | 76561198257036897@steam authenticated from endpoint 178.140.72.76:54818. Player ID assigned: 2. Auth token serial number: KNCwQuhb-7rH5Fts0.
+2024-04-06 12:39:11.333Z | Connection update   | Networking     | Nickname of 76561198257036897@steam is now ttv/deema_k.
+2024-04-06 12:39:11.343Z | Connection update   | Permissions    | ttv/deema_k (76561198257036897@steam) has been assigned to group SERVER OWNER.
+2024-04-06 12:39:36.597Z | Remote Admin        | Class change   | ttv/deema_k (76561198257036897@steam) changed role of player ttv/deema_k (76561198257036897@steam) to Tutorial.
+2024-04-06 12:39:50.615Z | Remote Admin        | Administrative | ttv/deema_k (76561198257036897@steam) locked the alpha warhead detonation.
+2024-04-06 12:39:52.130Z | Remote Admin        | Administrative | ttv/deema_k (76561198257036897@steam) locked the alpha warhead detonation.
+2024-04-06 12:39:52.731Z | Remote Admin        | Administrative | ttv/deema_k (76561198257036897@steam) enabled round lock.
+2024-04-06 12:39:53.114Z | Remote Admin        | Administrative | ttv/deema_k (76561198257036897@steam) enabled lobby lock.
+2024-04-06 12:39:57.864Z | Game Event          | Logger         | Round has been started.
+2024-04-06 12:39:57.864Z | Remote Admin        | Administrative | ttv/deema_k (76561198257036897@steam) forced round start.
+2024-04-06 12:40:56.387Z | Kill                | Class change   | ttv/deema_k (76561198257036897@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-04-06 12:40:56.399Z | Connection update   | Networking     | ttv/deema_k (76561198257036897@steam) disconnected from IP address 178.140.72.76. Last class: Spectator.

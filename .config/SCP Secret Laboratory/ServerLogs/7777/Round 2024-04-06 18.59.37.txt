@@ -1,0 +1,25 @@
+2024-04-06 18:59:37.590Z | Internal            | Logger         | Started logging.
+2024-04-06 18:59:37.591Z | Internal            | Logger         | Game version: 13.4.2.
+2024-04-06 18:59:37.591Z | Internal            | Logger         | Build type: Release.
+2024-04-06 18:59:37.591Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
+2024-04-06 18:59:37.591Z | Internal            | Logger         | Headless: True.
+2024-04-06 18:59:53.858Z | Connection update   | Networking     | 76561198942935069@steam preauthenticated from endpoint 178.121.41.118:13100.
+2024-04-06 19:00:15.599Z | Connection update   | Networking     | 76561198942935069@steam authenticated from endpoint 178.121.41.118:13100. Player ID assigned: 2. Auth token serial number: 8ssli8vb-ukN1BcYB.
+2024-04-06 19:00:15.603Z | Connection update   | Networking     | Nickname of 76561198942935069@steam is now Inn.
+2024-04-06 19:00:15.613Z | Connection update   | Permissions    | Inn (76561198942935069@steam) has been assigned to group Зам. Хозяина.
+2024-04-06 19:00:20.416Z | Remote Admin        | Class change   | Inn (76561198942935069@steam) changed role of player Inn (76561198942935069@steam) to Tutorial.
+2024-04-06 19:00:23.067Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled round lock.
+2024-04-06 19:00:23.351Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled lobby lock.
+2024-04-06 19:00:23.885Z | Game Event          | Logger         | Round has been started.
+2024-04-06 19:00:23.885Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) forced round start.
+2024-04-06 19:00:27.839Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:01:06.053Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) teleported player Inn (76561198942935069@steam) to door 049_ARMORY.
+2024-04-06 19:01:19.602Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave AntiSCP207 to Inn (76561198942935069@steam).
+2024-04-06 19:01:29.421Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Jailbird to Inn (76561198942935069@steam).
+2024-04-06 19:01:34.969Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:01:35.168Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:01:35.319Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:01:35.436Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:01:35.619Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 19:02:05.359Z | Kill                | Class change   | Inn (76561198942935069@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-04-06 19:02:05.372Z | Connection update   | Networking     | Inn (76561198942935069@steam) disconnected from IP address 178.121.41.118. Last class: Spectator.

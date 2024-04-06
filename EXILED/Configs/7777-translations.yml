@@ -1,13 +1,13 @@
 better_coinflips:
-  # This is added to the effect message if the coin breaks.
+# This is added to the effect message if the coin breaks.
   coin_breaks_message: |2-
 
     <color=white>Так-же твоя монетка была использована настолько часто, что сломалась.
   # The broadcast message when a coin is registered with no uses.
   coin_no_uses_message: 'Your coin had no uses to begin with!'
   hint_messages:
-    - '<color=yellow>''Тебе выпала решка!'''
-    - '<color=yellow>''Тебе выпал орёл!'''
+  - '<color=yellow>''Тебе выпала решка!'''
+  - '<color=yellow>''Тебе выпал орёл!'''
   # Here you can set the message for each of these good coin effects.
   toss_on_cooldown_message: '<color=White>''Пока-что ты не можешь сделать этого'''
   red_card_message: '<color=green>''Ты получил карту Facility Manager!'''

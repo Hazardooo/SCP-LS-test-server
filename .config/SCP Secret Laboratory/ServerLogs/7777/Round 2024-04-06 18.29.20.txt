@@ -1,0 +1,28 @@
+2024-04-06 18:29:20.329Z | Internal            | Logger         | Started logging.
+2024-04-06 18:29:20.329Z | Internal            | Logger         | Game version: 13.4.2.
+2024-04-06 18:29:20.329Z | Internal            | Logger         | Build type: Release.
+2024-04-06 18:29:20.329Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
+2024-04-06 18:29:20.329Z | Internal            | Logger         | Headless: True.
+2024-04-06 18:29:35.896Z | Connection update   | Networking     | 76561198942935069@steam preauthenticated from endpoint 178.121.41.118:7080.
+2024-04-06 18:29:55.050Z | Connection update   | Networking     | 76561198942935069@steam authenticated from endpoint 178.121.41.118:7080. Player ID assigned: 2. Auth token serial number: FDQYn0n1-3jOJp913.
+2024-04-06 18:29:55.054Z | Connection update   | Networking     | Nickname of 76561198942935069@steam is now Inn.
+2024-04-06 18:29:55.064Z | Connection update   | Permissions    | Inn (76561198942935069@steam) has been assigned to group Модератор.
+2024-04-06 18:30:03.869Z | Remote Admin        | Class change   | Inn (76561198942935069@steam) changed role of player Inn (76561198942935069@steam) to Tutorial.
+2024-04-06 18:30:11.501Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled round lock.
+2024-04-06 18:30:12.218Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled lobby lock.
+2024-04-06 18:30:15.551Z | Game Event          | Logger         | Round has been started.
+2024-04-06 18:30:15.551Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) forced round start.
+2024-04-06 18:30:25.805Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively disarmed Inn (76561198942935069@steam).
+2024-04-06 18:30:26.286Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:32.202Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:44.336Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) cleared Inn (76561198942935069@steam)'s inventory.
+2024-04-06 18:30:44.336Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) ran the STRIP command on 1 players.
+2024-04-06 18:30:45.237Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively disarmed Inn (76561198942935069@steam).
+2024-04-06 18:30:46.136Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:46.602Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:46.836Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:47.053Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).
+2024-04-06 18:30:53.402Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively disarmed Inn (76561198942935069@steam).
+2024-04-06 18:30:58.686Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) cleared Inn (76561198942935069@steam)'s inventory.
+2024-04-06 18:30:58.686Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) ran the STRIP command on 1 players.
+2024-04-06 18:31:00.403Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) administratively released , Inn (76561198942935069@steam).

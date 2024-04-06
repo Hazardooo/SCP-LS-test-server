@@ -1,0 +1,19 @@
+2024-04-06 18:52:44.367Z | Internal            | Logger         | Started logging.
+2024-04-06 18:52:44.367Z | Internal            | Logger         | Game version: 13.4.2.
+2024-04-06 18:52:44.367Z | Internal            | Logger         | Build type: Release.
+2024-04-06 18:52:44.373Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
+2024-04-06 18:52:44.373Z | Internal            | Logger         | Headless: True.
+2024-04-06 18:53:17.525Z | Connection update   | Networking     | 76561198942935069@steam preauthenticated from endpoint 178.121.41.118:30396.
+2024-04-06 18:53:57.312Z | Connection update   | Networking     | 76561198942935069@steam authenticated from endpoint 178.121.41.118:30396. Player ID assigned: 2. Auth token serial number: 8ssli8vb-y0e149AW.
+2024-04-06 18:53:57.315Z | Connection update   | Networking     | Nickname of 76561198942935069@steam is now Inn.
+2024-04-06 18:53:57.325Z | Connection update   | Permissions    | Inn (76561198942935069@steam) has been assigned to group Зам. Хозяина.
+2024-04-06 18:54:06.776Z | Remote Admin        | Class change   | Inn (76561198942935069@steam) changed role of player Inn (76561198942935069@steam) to Tutorial.
+2024-04-06 18:54:14.042Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled round lock.
+2024-04-06 18:54:14.309Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) enabled lobby lock.
+2024-04-06 18:54:15.076Z | Game Event          | Logger         | Round has been started.
+2024-04-06 18:54:15.076Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) forced round start.
+2024-04-06 18:54:33.046Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) gave Coin to Inn (76561198942935069@steam).
+2024-04-06 18:54:48.130Z | Remote Admin        | Class change   | Inn (76561198942935069@steam) changed role of player Inn (76561198942935069@steam) to ClassD.
+2024-04-06 18:55:02.246Z | Remote Admin        | Administrative | Inn (76561198942935069@steam) teleported player Inn (76561198942935069@steam) to door 049_ARMORY.
+2024-04-06 18:55:50.134Z | Kill                | Class change   | Inn (76561198942935069@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-04-06 18:55:50.147Z | Connection update   | Networking     | Inn (76561198942935069@steam) disconnected from IP address 178.121.41.118. Last class: Spectator.
