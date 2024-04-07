@@ -1,8 +1,0 @@
-2024-04-06 18:28:00.642Z | Internal            | Logger         | Started logging.
-2024-04-06 18:28:00.644Z | Internal            | Logger         | Game version: 13.4.2.
-2024-04-06 18:28:00.644Z | Internal            | Logger         | Build type: Release.
-2024-04-06 18:28:00.644Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
-2024-04-06 18:28:00.644Z | Internal            | Logger         | Headless: True.
-2024-04-06 18:28:02.593Z | Connection update   | Networking     | 76561198942935069@steam preauthenticated from endpoint 178.121.41.118:7280.
-2024-04-06 18:28:27.124Z | Connection update   | Networking     | 76561198942935069@steam authenticated from endpoint 178.121.41.118:7280. Player ID assigned: 2. Auth token serial number: FDQYn0n1-4kFlZNQh.
-2024-04-06 18:28:27.128Z | Connection update   | Networking     | Nickname of 76561198942935069@steam is now Inn.

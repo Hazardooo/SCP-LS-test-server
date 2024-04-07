@@ -1,4 +1,5 @@
-/SCP Secret Laboratory/ServerLogs
-/SCP Secret Laboratory/LocalAdminLogs
-/EXILED/Logs
 /.idea/
+/.config/EXILED/Logs/
+/.config/SCP Secret Laboratory/LocalAdminLogs/
+/.config/SCP Secret Laboratory/ServerLogs/
+/.config/unity3d/

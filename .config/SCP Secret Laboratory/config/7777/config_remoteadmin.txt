@@ -1,13 +1,9 @@
 #Let's assign roles (you can modify them and create custom roles below)
 #UserID format is SteamId64Here@steam, DiscordUserIDHere@discord, etc...
 Members:
- - SomeSteamId64@steam: owner
- - SomeOtherSteamId64@steam: admin
- - AnotherSteamId64@steam: admin
- - SomeDiscordUserId@discord: moderator
- - 76561198170356501@steam: owner
+ - 76561198170356501@steam: zavhoz
  - 292999973513986049@discord: owner
- - 76561198942935069@steam: admin
+ - 76561199042468403@steam: stajer
 
 #Should Secret Lab development staff be able to use the Remote Admin?
 enable_staff_access: false
@@ -39,66 +35,93 @@ owner_hidden: false
 owner_kick_power: 255
 owner_required_kick_power: 255
 
-admin_badge: Зам. Хозяина
+zavhoz_badge: Зав. Хозяина
+azavhoz_color: pink
+zavhoz_cover: true
+zavhoz_hidden: false
+zavhoz_kick_power: 254
+zavhoz_required_kick_power: 254
+
+stadmin_badge: Ст. Администратор
+stadmin_color: magenta
+stadmin_cover: true
+stadmin_hidden: false
+stadmin_kick_power: 200
+stadmin_required_kick_power: 200
+
+admin_badge: Администратор
 admin_color: red
 admin_cover: true
 admin_hidden: false
-admin_kick_power: 255
-admin_required_kick_power: 255
+admin_kick_power: 170
+admin_required_kick_power: 170
+
+mladmin_badge: Мл. Администратор
+mladmin_color: cyan
+mladmin_cover: true
+mladmin_hidden: false
+mladmin_kick_power: 150
+mladmin_required_kick_power: 150
 
 moderator_badge: Модератор
 moderator_color: green
 moderator_cover: true
 moderator_hidden: false
-moderator_kick_power: 200
-moderator_required_kick_power: 250
+moderator_kick_power: 100
+moderator_required_kick_power: 100
 
 stajer_badge: Стажёр
-stajer_color: cyan
+stajer_color: aqua
 stajer_cover: true
 stajer_hidden: false
-stajer_kick_power: 100
-stajer_required_kick_power: 250
+stajer_kick_power: 50
+stajer_required_kick_power: 50
+
+
+
 
 
 #And add them to the roles list
 Roles:
  - owner
+ - zavhoz
+ - stadmin
  - admin
+ - mladmin
  - moderator
  - stajer
 
 #Let's setup permissions for roles
 #More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
 Permissions:
- - KickingAndShortTermBanning: [owner, admin, moderator, stajer]
- - BanningUpToDay: [owner, admin, moderator, stajer]
- - LongTermBanning: [owner, admin]
- - ForceclassSelf: [owner, admin, moderator, stajer]
- - ForceclassToSpectator: [owner, admin, moderator, stajer]
- - ForceclassWithoutRestrictions: [owner, admin, stajer]
- - GivingItems: [owner, admin]
- - WarheadEvents: [owner, admin, moderator]
- - RespawnEvents: [owner, admin]
- - RoundEvents: [owner, admin, moderator]
+ - KickingAndShortTermBanning: [owner, admin, moderator, stajer, mladmin]
+ - BanningUpToDay: [owner, admin, moderator, stajer, mladmin]
+ - LongTermBanning: [owner, admin, mladmin]
+ - ForceclassSelf: [owner, admin, moderator, stajer, mladmin]
+ - ForceclassToSpectator: [owner, admin, moderator, stajer, mladmin]
+ - ForceclassWithoutRestrictions: [owner, admin, stajer, mladmin]
+ - GivingItems: [owner, admin, mladmin]
+ - WarheadEvents: [owner, admin, mladmin]
+ - RespawnEvents: [owner, admin, mladmin]
+ - RoundEvents: [owner, admin, mladmin]
  - SetGroup: [owner, admin]
  - GameplayData: [owner, admin]
- - Overwatch: [owner, admin, moderator, stajer]
- - FacilityManagement: [owner, admin, moderator, stajer]
- - PlayersManagement: [owner, admin, moderator, stajer]
+ - Overwatch: [owner, admin, moderator, stajer, mladmin]
+ - FacilityManagement: [owner, admin, moderator, stajer, mladmin]
+ - PlayersManagement: [owner, admin, moderator, stajer, mladmin]
  - PermissionsManagement: [owner]
- - ServerConsoleCommands: []
- - ViewHiddenBadges: [owner, admin, moderator, stajer]
+ - ServerConsoleCommands: [owner]
+ - ViewHiddenBadges: [owner, admin, moderator, stajer, mladmin]
  - ServerConfigs: [owner]
- - Broadcasting: [owner, admin, moderator, stajer]
- - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer]
- - Noclip: [owner, admin, stajer]
- - AFKImmunity: [owner, admin, moderator, stajer]
- - AdminChat: [owner, admin, moderator, stajer]
- - ViewHiddenGlobalBadges: [owner, admin, moderator]
- - Announcer: [owner, admin]
- - Effects: [owner, admin]
- - FriendlyFireDetectorImmunity: [owner, admin, moderator]
+ - Broadcasting: [owner, admin, moderator, stajer, mladmin]
+ - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer, mladmin]
+ - Noclip: [owner, admin, stajer, mladmin]
+ - AFKImmunity: [owner, admin, moderator, stajer, mladmin]
+ - AdminChat: [owner, admin, moderator, stajer, mladmin]
+ - ViewHiddenGlobalBadges: [owner, admin, moderator, mladmin]
+ - Announcer: [owner, admin, mladmin]
+ - Effects: [owner, admin, mladmin]
+ - FriendlyFireDetectorImmunity: [owner, admin]
  - FriendlyFireDetectorTempDisable: [owner, admin]
 
 #Set to "none" in order to disable password.

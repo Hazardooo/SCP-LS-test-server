@@ -1,9 +1,0 @@
-2024-04-06 12:19:06.835Z | Internal            | Logger         | Started logging.
-2024-04-06 12:19:06.836Z | Internal            | Logger         | Game version: 13.4.2.
-2024-04-06 12:19:06.836Z | Internal            | Logger         | Build type: Release.
-2024-04-06 12:19:06.836Z | Internal            | Logger         | Build timestamp: 2024-02-02 22:31:40Z.
-2024-04-06 12:19:06.836Z | Internal            | Logger         | Headless: True.
-2024-04-06 12:30:29.002Z | Connection update   | Networking     | 76561198257036897@steam preauthenticated from endpoint 178.140.72.76:61826.
-2024-04-06 12:30:42.022Z | Connection update   | Networking     | 76561198257036897@steam authenticated from endpoint 178.140.72.76:61826. Player ID assigned: 2. Auth token serial number: KNCwQuhb-x5kmU50C.
-2024-04-06 12:30:42.026Z | Connection update   | Networking     | Nickname of 76561198257036897@steam is now ttv/deema_k.
-2024-04-06 12:34:59.470Z | Connection update   | Networking     | ttv/deema_k (76561198257036897@steam) disconnected from IP address 178.140.72.76. Last class: None.
