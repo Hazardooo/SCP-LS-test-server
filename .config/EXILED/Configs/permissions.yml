@@ -55,6 +55,21 @@ stajer:
     - at.tut
     - at.hp
 
+eventolog:
+  inheritance: [ ]
+  permissions:
+    - at.kill
+    - at.tut
+    - at.hp
+    - at.inv
+    - at.scale
+    - at.size
+    - at.items
+    - at.grenade
+
+
+
+
 
 
     

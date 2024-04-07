@@ -1,0 +1,39 @@
+<size=50%>Round time: {round_minutes}:{round_seconds} | TPS: {tps}/{tickrate}</size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=75%><color={RANDOM_COLOR}>Вы появитесь: </color>
+{minutes} мин. {seconds} s
+Вы появитесь за: {team}
+<align=left>Статус Боеголовки: {warhead_status}
+Generators: {generator_engaged}/{generator_count}</align>
+<align=right>
+<color=#808080>Наблюдателей:</color> {spectators_num}
+<color=blue>Шанс спавна NTF:</color> {ntf_spawn_chance}%
+<color=green>Шанс спавна CI:</color> {ci_spawn_chance}%
+</align>
+{hint}
+
+
+
+
+
+
+
+
+
+
+

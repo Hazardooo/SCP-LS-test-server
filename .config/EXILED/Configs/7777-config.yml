@@ -4,6 +4,39 @@ AT:
   debug: false
   # Should the tutorial class be in God Mode? Default: true
   god_tuts: false
+CandyUtils:
+  is_enabled: true
+  debug: false
+  # Chance of getting pink candy from bowl
+  pink_chance: 15
+  # Set how many candies everyone can take
+  global_sever_limit: 2
+  # Set how many candies a role needs to pick up before hand is severed - Overrides GlobalSeverLimit
+  sever_counts:
+    Tutorial: 8
+ScpProximityChat:
+  is_enabled: true
+  debug: false
+  toggle_chat: true
+  proximity_chat_enabled_message: '<i><b>общий чат <color=#42f57b>включен</color></b></i>'
+  proximity_chat_disabled_message: '<i><b>общий чат <color=red>выключен</color></b></i>'
+  max_proximity_distance: 7
+  allowed_roles:
+  - Scp049
+  - Scp096
+  - Scp106
+  - Scp173
+  - Scp0492
+  - Scp939
+  send_broadcast_on_role_change: false
+  broadcast_duration: 5
+  broadcast_message: '<b>Proximity Chat can be toggled with the <color=#42f57b>[ALT]</color> key</b>.'
+Server Names:
+# If yes, what would the new server name be?
+  name: 'Example'
+  # Should the override be enabled?
+  is_enabled: false
+  debug: false
 better_coinflips:
 # Whether or not the plugin should be enabled. Default: true
   is_enabled: true
@@ -27,7 +60,7 @@ better_coinflips:
   # The duration of the map blackout. Default: 10
   map_blackout_time: 10
   # The fuse time of the grenade falling on your head. Default: 3.25
-  live_grenade_fuse_time: 3.25
+  live_grenade_fuse_time: 1.5
   # List of bad effects that can be applied to the players. List available at: https://exiled-team.github.io/EXILED/api/Exiled.API.Enums.EffectType.html
   bad_effects:
   - Asphyxiated
@@ -167,34 +200,34 @@ better_coinflips:
   - Surface
   # The chance of these good effects happening. It's a proportional chance not a % chance.
   keycard_chance: 20
-  medical_kit_chance: 35
+  medical_kit_chance: 20
   tp_to_escape_chance: 5
   heal_chance: 10
   more_hp_chance: 10
   hat_chance: 10
-  random_good_effect_chance: 30
+  random_good_effect_chance: 20
   one_ammo_logicer_chance: 1
   lightbulb_chance: 15
   pink_candy_chance: 10
   bad_revo_chance: 5
   empty_hid_chance: 5
   force_respawn_chance: 15
-  size_change_chance: 20
+  size_change_chance: 5
   random_item_chance: 35
   # The chance of these bad effects happening. It's a proportional chance not a % chance.
   hp_reduction_chance: 20
   tp_to_class_d_cells_chance: 5
   random_bad_effect_chance: 20
   warhead_chance: 10
-  lights_out_chance: 20
+  lights_out_chance: 0
   live_he_chance: 30
-  troll_flash_chance: 50
+  troll_flash_chance: 10
   scp_tp_chance: 20
   one_hp_left_chance: 15
   primed_vase_chance: 20
-  shit_pants_chance: 20
-  fake_cassie_chance: 50
-  turn_into_scp_chance: 30
+  shit_pants_chance: 10
+  fake_cassie_chance: 15
+  turn_into_scp_chance: 0
   inventory_reset_chance: 20
   class_swap_chance: 10
   instant_explosion_chance: 10
@@ -337,6 +370,19 @@ exiled_permissions:
   full_path: '/home/admin/.config/EXILED/Configs/permissions.yml'
   is_enabled: true
   debug: false
+respawn_timer:
+# Whether the plugin is enabled.
+  is_enabled: true
+  # Whether debug messages shoul be shown in a server console.
+  debug: false
+  timers:
+    default: ExampleTimer
+  # Whether the timer should be reloaded each round. Useful if you have many different timers designed.
+  reload_timer_each_round: true
+  # Whether the timer should be hidden for players in overwatch.
+  hide_timer_for_overwatch: true
+  # The delay before the timer will be shown after player death.
+  timer_delay: -1
 scp1162:
 # Is the plugin enabled?
   is_enabled: true

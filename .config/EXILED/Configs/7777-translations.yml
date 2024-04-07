@@ -1,3 +1,17 @@
+CandyUtils:
+# The text shown when picking up a candy, note %type% gets replaced with the type of candy
+  pickup_text: 'Вы взяли %type% конфету.'
+  # Dictionary of candies and the respective text to show based on them
+  candy_text:
+    Rainbow: <color=#FF0000>Р</color><color=#FF7F00>а</color><color=#FFFF00>д</color><color=#00FF00>у</color><color=#0000FF>ж</color><color=#4B0082>н</color><color=#8A2BE2>у</color><color=#FF0000>ю
+    Yellow: <color=#FFFF00>Жёлтую</color>
+    Purple: <color=#800080>Фиолетовую</color>
+    Red: <color=#FF0000>Красную</color>
+    Green: <color=#008000>Зелёную</color>
+    Blue: <color=#0000FF>Синию</color>
+    Pink: <color=#FFC0CB>Розовую</color>
+  # Text to be shown when hands are being severed
+  severed_text: 'Трость мне в кость, твои руки теперь моя собственность'
 better_coinflips:
 # This is added to the effect message if the coin breaks.
   coin_breaks_message: |2-

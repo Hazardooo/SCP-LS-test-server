@@ -4,6 +4,8 @@ Members:
  - 76561198170356501@steam: zavhoz
  - 292999973513986049@discord: owner
  - 76561199042468403@steam: stajer
+ - 76561198942935069@steam: stajer
+ - 76561199634737095@steam: eventolog
 
 #Should Secret Lab development staff be able to use the Remote Admin?
 enable_staff_access: false
@@ -36,7 +38,7 @@ owner_kick_power: 255
 owner_required_kick_power: 255
 
 zavhoz_badge: Зав. Хозяина
-azavhoz_color: pink
+zavhoz_color: pink
 zavhoz_cover: true
 zavhoz_hidden: false
 zavhoz_kick_power: 254
@@ -77,9 +79,19 @@ stajer_hidden: false
 stajer_kick_power: 50
 stajer_required_kick_power: 50
 
+sinbordura_badge: Сын бордюра
+sinbordura_color: white
+sinbordura_cover: true
+sinbordura_hidden: false
+sinbordura_kick_power: 0
+sinbordura_required_kick_power: 0
 
-
-
+eventolog_badge: Отряд Ивентов
+eventolog_color: light_green
+eventolog_cover: true
+eventolog_hidden: false
+eventolog_kick_power: 125
+eventolog_required_kick_power: 125
 
 #And add them to the roles list
 Roles:
@@ -90,39 +102,41 @@ Roles:
  - mladmin
  - moderator
  - stajer
+ - sinbordura
+ - eventolog
 
 #Let's setup permissions for roles
 #More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
 Permissions:
- - KickingAndShortTermBanning: [owner, admin, moderator, stajer, mladmin]
- - BanningUpToDay: [owner, admin, moderator, stajer, mladmin]
- - LongTermBanning: [owner, admin, mladmin]
- - ForceclassSelf: [owner, admin, moderator, stajer, mladmin]
- - ForceclassToSpectator: [owner, admin, moderator, stajer, mladmin]
- - ForceclassWithoutRestrictions: [owner, admin, stajer, mladmin]
- - GivingItems: [owner, admin, mladmin]
- - WarheadEvents: [owner, admin, mladmin]
- - RespawnEvents: [owner, admin, mladmin]
- - RoundEvents: [owner, admin, mladmin]
- - SetGroup: [owner, admin]
- - GameplayData: [owner, admin]
- - Overwatch: [owner, admin, moderator, stajer, mladmin]
- - FacilityManagement: [owner, admin, moderator, stajer, mladmin]
- - PlayersManagement: [owner, admin, moderator, stajer, mladmin]
- - PermissionsManagement: [owner]
- - ServerConsoleCommands: [owner]
- - ViewHiddenBadges: [owner, admin, moderator, stajer, mladmin]
- - ServerConfigs: [owner]
- - Broadcasting: [owner, admin, moderator, stajer, mladmin]
- - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer, mladmin]
- - Noclip: [owner, admin, stajer, mladmin]
- - AFKImmunity: [owner, admin, moderator, stajer, mladmin]
- - AdminChat: [owner, admin, moderator, stajer, mladmin]
- - ViewHiddenGlobalBadges: [owner, admin, moderator, mladmin]
- - Announcer: [owner, admin, mladmin]
- - Effects: [owner, admin, mladmin]
- - FriendlyFireDetectorImmunity: [owner, admin]
- - FriendlyFireDetectorTempDisable: [owner, admin]
+ - KickingAndShortTermBanning: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - BanningUpToDay: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - LongTermBanning: [owner, admin, mladmin, zavhoz]
+ - ForceclassSelf: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - ForceclassToSpectator: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - ForceclassWithoutRestrictions: [owner, admin, stajer, mladmin, zavhoz, eventolog]
+ - GivingItems: [owner, admin, mladmin, zavhoz, eventolog]
+ - WarheadEvents: [owner, admin, mladmin, zavhoz, eventolog]
+ - RespawnEvents: [owner, admin, mladmin, zavhoz, eventolog]
+ - RoundEvents: [owner, admin, mladmin, zavhoz, eventolog]
+ - SetGroup: [owner, zavhoz]
+ - GameplayData: [owner, zavhoz, stajer, admin, stadmin, moderator, mladmin, eventolog]
+ - Overwatch: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - FacilityManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - PlayersManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - PermissionsManagement: [owner, zavhoz]
+ - ServerConsoleCommands: [owner, zavhoz]
+ - ViewHiddenBadges: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - ServerConfigs: [owner, zavhoz]
+ - Broadcasting: [owner, admin, moderator, stajer, mladmin, eventolog]
+ - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - Noclip: [owner, admin, stajer, mladmin, zavhoz, eventolog]
+ - AFKImmunity: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - AdminChat: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - ViewHiddenGlobalBadges: [owner, admin, moderator, mladmin, zavhoz, stajer, eventolog]
+ - Announcer: [owner, admin, mladmin, zavhoz, eventolog]
+ - Effects: [owner, admin, mladmin, zavhoz, eventolog]
+ - FriendlyFireDetectorImmunity: [owner, zavhoz, eventolog]
+ - FriendlyFireDetectorTempDisable: [owner, zavhoz, eventolog]
 
 #Set to "none" in order to disable password.
 #WE DON'T RECOMMEND USING PASSWORD!!!
