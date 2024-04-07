@@ -1,0 +1,62 @@
+user:
+  default: true
+  inheritance: [ ]
+  permissions:
+    - testplugin.user
+
+owner:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+zavhoz:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+stadmin:
+  inheritance: [ ]
+  permissions:
+    - at.kill
+    - at.tut
+    - at.hp
+    - at.inv
+    - at.scale
+    - at.size
+    - at.rocket
+    - at.items
+    - at.grenade
+
+admin:
+  inheritance: [ ]
+  permissions:
+    - at.kill
+    - at.tut
+    - at.hp
+    - at.inv
+    - at.rocket
+
+mladmin:
+  inheritance: [ ]
+  permissions:
+    - at.kill
+    - at.tut
+    - at.hp
+    - at.inv
+
+moderator:
+  inheritance: [stajer]
+  permissions:
+    - at.inv
+
+stajer:
+  inheritance: [ ]
+  permissions:
+    - at.tut
+    - at.hp
+
+
+
+    
+
+
