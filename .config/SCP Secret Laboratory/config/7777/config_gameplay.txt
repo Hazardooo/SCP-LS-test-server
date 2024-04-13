@@ -1,5 +1,5 @@
 #Server main settings
-server_name: <b>[R<color=blue>U</color><color=red>S</color>]Asriel`s <color=purple>Realm</color></b>
+server_name: <b>[R<color=blue>U</color><color=red>S</color>] <color=#FF3F33>A</color><color=#FF6833>S</color><color=#FF7D33>R</color><color=#FF9C33>I</color><color=#FFB833>E</color><color=#FFCE33>L</color><color=#FFD733>S</color> <color=#FFD733>R</color><color=#FFCE33>E</color><color=#FFB833>A</color><color=#FF9C33>L</color><color=#FF7D33>M</color> | CLASSIC+</b>
 #default - uses server_name
 player_list_title: default
 player_list_title_rate: default

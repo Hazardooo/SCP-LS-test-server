@@ -46,7 +46,7 @@ CommonUtilities:
   # The message given to all players when the auto-nuke is triggered. A duration of 2 or more will be a text message on-screen. A duration of 1 makes it a cassie announcement. A duration of 0 disables it.
   autonuke_broadcast:
   # The broadcast content
-    content: '<b><color=red>Автобоеголовка была включена.</color></b>'
+    content: '                            .'
     # The broadcast duration
     duration: 10
     # The broadcast type
@@ -960,8 +960,8 @@ spectator_list:
   # List of server roles that should be ignored
   ignored_roles: []
   # Set the Spectator List Title. Use (COUNT) to get the number of spectators
-  spectator_list_title: "<b>\U0001F465 Spectators ((COUNT)):</b>"
+  spectator_list_title: '<b> Spectators ((COUNT)):</b>'
   # How names should be displayed. Use (NAME) to get the player's name; type (NONE) if you don't want to show their names.
   spectator_names: '(NAME)'
   # The refresh rate of the hint
-  refresh_rate: 1
+  refresh_rate: 4

@@ -1,11 +1,17 @@
 #Let's assign roles (you can modify them and create custom roles below)
 #UserID format is SteamId64Here@steam, DiscordUserIDHere@discord, etc...
 Members:
- - 76561198170356501@steam: zavhoz
- - 292999973513986049@discord: owner
+ - 76561198170356501@steam: owner
+ - 76561198282601945@steam: owner
  - 76561199042468403@steam: stajer
  - 76561198942935069@steam: stajer
  - 76561199634737095@steam: eventolog
+ - 76561199401502908@steam: stajer
+ - 76561199286374486@steam: steventolog
+ - 76561199232473210@steam: zavhoz
+ - 76561199532217548@steam: sinbordura
+ - 76561198274465519@steam: sladkoejka
+ - 76561199358201341@steam: cengineer
 
 #Should Secret Lab development staff be able to use the Remote Admin?
 enable_staff_access: false
@@ -38,14 +44,14 @@ owner_kick_power: 255
 owner_required_kick_power: 255
 
 zavhoz_badge: Зав. Хозяина
-zavhoz_color: pink
+zavhoz_color: red
 zavhoz_cover: true
 zavhoz_hidden: false
 zavhoz_kick_power: 254
 zavhoz_required_kick_power: 254
 
 stadmin_badge: Ст. Администратор
-stadmin_color: magenta
+stadmin_color: red
 stadmin_cover: true
 stadmin_hidden: false
 stadmin_kick_power: 200
@@ -73,7 +79,7 @@ moderator_kick_power: 100
 moderator_required_kick_power: 100
 
 stajer_badge: Стажёр
-stajer_color: aqua
+stajer_color: cyan
 stajer_cover: true
 stajer_hidden: false
 stajer_kick_power: 50
@@ -87,11 +93,89 @@ sinbordura_kick_power: 0
 sinbordura_required_kick_power: 0
 
 eventolog_badge: Отряд Ивентов
-eventolog_color: light_green
+eventolog_color: green
 eventolog_cover: true
 eventolog_hidden: false
 eventolog_kick_power: 125
 eventolog_required_kick_power: 125
+
+steventolog_badge: Гл. Отряд Ивентов
+steventolog_color: light_green
+steventolog_cover: true
+steventolog_hidden: false
+steventolog_kick_power: 185
+steventolog_required_kick_power: 185
+
+sladkoejka_badge: Сладкоежка
+sladkoejka_color: magenta
+sladkoejka_cover: true
+sladkoejka_hidden: false
+sladkoejka_kick_power: 0
+sladkoejka_required_kick_power: 0
+
+vip_badge: VIP
+vip_color: yellow
+vip_cover: true
+vip_hidden: false
+vip_kick_power: 0
+vip_required_kick_power: 0
+
+rprefix_badge: Легенда сервера
+rprefix_color: yellow
+rprefix_cover: true
+rprefix_hidden: false
+rprefix_kick_power: 0
+rprefix_required_kick_power: 0
+
+pocket_badge: Карманник
+pocket_color: pumpkin
+pocket_cover: true
+pocket_hidden: false
+pocket_kick_power: 0
+pocket_required_kick_power: 0
+
+narcobaron_badge: Наркобарон
+narcobaron_color: nickel
+narcobaron_cover: true
+narcobaron_hidden: false
+narcobaron_kick_power: 0
+narcobaron_required_kick_power: 0
+
+cengineer_badge: Бывший инженер комплекса
+cengineer_color: orange
+cengineer_cover: true
+cengineer_hidden: false
+cengineer_kick_power: 0
+cengineer_required_kick_power: 0
+
+party_badge: Распорядтель вечеринок
+party_color: magenta
+party_cover: true
+party_hidden: false
+party_kick_power: 0
+party_required_kick_power: 0
+
+guard_badge: Начальник охраны
+guard_color: silver
+guard_cover: true
+guard_hidden: false
+guard_kick_power: 0
+guard_required_kick_power: 0
+
+scientistcoordinator_badge: Научный руководитель
+scientistcoordinator_color: tomato
+scientistcoordinator_cover: true
+scientistcoordinator_hidden: false
+scientistcoordinator_kick_power: 0
+scientistcoordinator_required_kick_power: 0
+
+banda_badge: Глава банды
+banda_color: brown
+banda_cover: true
+banda_hidden: false
+banda_kick_power: 0
+banda_required_kick_power: 0
+
 
 #And add them to the roles list
 Roles:
@@ -104,39 +188,50 @@ Roles:
  - stajer
  - sinbordura
  - eventolog
+ - sladkoejka
+ - steventolog
+ - vip
+ - rprefix
+ - pocket
+ - narcobaron
+ - cengineer
+ - party
+ - guard
+ - scientistcoordinator
+ - banda
 
 #Let's setup permissions for roles
 #More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
 Permissions:
- - KickingAndShortTermBanning: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - BanningUpToDay: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - LongTermBanning: [owner, admin, mladmin, zavhoz]
- - ForceclassSelf: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - ForceclassToSpectator: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - ForceclassWithoutRestrictions: [owner, admin, stajer, mladmin, zavhoz, eventolog]
- - GivingItems: [owner, admin, mladmin, zavhoz, eventolog]
- - WarheadEvents: [owner, admin, mladmin, zavhoz, eventolog]
- - RespawnEvents: [owner, admin, mladmin, zavhoz, eventolog]
- - RoundEvents: [owner, admin, mladmin, zavhoz, eventolog]
+ - KickingAndShortTermBanning: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, steventolog, stadmin]
+ - BanningUpToDay: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - LongTermBanning: [owner, admin, mladmin, zavhoz, stadmin, steventolog]
+ - ForceclassSelf: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - ForceclassToSpectator: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - ForceclassWithoutRestrictions: [owner, admin, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - GivingItems: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - WarheadEvents: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - RespawnEvents: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - RoundEvents: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
  - SetGroup: [owner, zavhoz]
- - GameplayData: [owner, zavhoz, stajer, admin, stadmin, moderator, mladmin, eventolog]
- - Overwatch: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - FacilityManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - PlayersManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
+ - GameplayData: [owner, zavhoz, stajer, admin, stadmin, moderator, mladmin, eventolog, stadmin, steventolog]
+ - Overwatch: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - FacilityManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - PlayersManagement: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
  - PermissionsManagement: [owner, zavhoz]
- - ServerConsoleCommands: [owner, zavhoz]
- - ViewHiddenBadges: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - ServerConfigs: [owner, zavhoz]
- - Broadcasting: [owner, admin, moderator, stajer, mladmin, eventolog]
- - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - Noclip: [owner, admin, stajer, mladmin, zavhoz, eventolog]
- - AFKImmunity: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - AdminChat: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog]
- - ViewHiddenGlobalBadges: [owner, admin, moderator, mladmin, zavhoz, stajer, eventolog]
- - Announcer: [owner, admin, mladmin, zavhoz, eventolog]
- - Effects: [owner, admin, mladmin, zavhoz, eventolog]
- - FriendlyFireDetectorImmunity: [owner, zavhoz, eventolog]
- - FriendlyFireDetectorTempDisable: [owner, zavhoz, eventolog]
+ - ServerConsoleCommands: [owner]
+ - ViewHiddenBadges: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - ServerConfigs: [owner, zavhoz, eventolog, stadmin, admin, stadmin, steventolog]
+ - Broadcasting: [owner, zavhoz, admin, moderator, stajer, mladmin, eventolog, stadmin, steventolog]
+ - PlayerSensitiveDataAccess: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - Noclip: [owner, admin, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - AFKImmunity: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - AdminChat: [owner, admin, moderator, stajer, mladmin, zavhoz, eventolog, stadmin, steventolog, vip]
+ - ViewHiddenGlobalBadges: [owner, admin, moderator, mladmin, zavhoz, stajer, eventolog, stadmin, steventolog]
+ - Announcer: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - Effects: [owner, admin, mladmin, zavhoz, eventolog, stadmin, steventolog]
+ - FriendlyFireDetectorImmunity: [owner, zavhoz, eventolog, stadmin, steventolog, admin]
+ - FriendlyFireDetectorTempDisable: [owner, zavhoz, eventolog, stadmin, steventolog, admin]
 
 #Set to "none" in order to disable password.
 #WE DON'T RECOMMEND USING PASSWORD!!!
@@ -160,3 +255,7 @@ PredefinedBanTemplates:
  - [86400, Team Killing (Minor Offence)]
  - [604800, Team Killing (Major Offence)]
  - [1577000000, Abusing Exploits]
+
+
+#ADDED BY CONFIG VALIDATOR - 2024/04/11 20:46:01 Game version: 13.4.2
+steventolog_badge: default

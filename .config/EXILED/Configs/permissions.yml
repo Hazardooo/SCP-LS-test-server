@@ -17,15 +17,7 @@ zavhoz:
 stadmin:
   inheritance: [ ]
   permissions:
-    - at.kill
-    - at.tut
-    - at.hp
-    - at.inv
-    - at.scale
-    - at.size
-    - at.rocket
-    - at.items
-    - at.grenade
+    - .*
 
 admin:
   inheritance: [ ]
@@ -45,7 +37,7 @@ mladmin:
     - at.inv
 
 moderator:
-  inheritance: [stajer]
+  inheritance: [ stajer ]
   permissions:
     - at.inv
 
@@ -54,6 +46,19 @@ stajer:
   permissions:
     - at.tut
     - at.hp
+
+steventolog:
+  inheritance: [ ]
+  permissions:
+    - at.kill
+    - at.tut
+    - at.hp
+    - at.inv
+    - at.scale
+    - at.size
+    - at.items
+    - at.grenade
+    - mpr.*
 
 eventolog:
   inheritance: [ ]
@@ -66,12 +71,5 @@ eventolog:
     - at.size
     - at.items
     - at.grenade
-
-
-
-
-
-
-    
 
 

@@ -1,0 +1,980 @@
+{
+  "RootObjectId": -13570,
+  "Blocks": [
+    {
+      "Name": "LightSource",
+      "ObjectId": -226630,
+      "ParentId": -13570,
+      "Position": {
+        "x": -11.34,
+        "y": 42.37,
+        "z": -161.51
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "FFFFFFFF",
+        "Intensity": 0.5,
+        "Range": 1000.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Building",
+      "ObjectId": -51108,
+      "ParentId": -13570,
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Walls",
+      "ObjectId": -42622,
+      "ParentId": -51108,
+      "Position": {
+        "x": -44.4,
+        "y": 39.4,
+        "z": -108.34
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall 1",
+      "ObjectId": -26510,
+      "ParentId": -42622,
+      "Position": {
+        "x": 10.08,
+        "y": -3.2731,
+        "z": -46.6802
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 16.5957127,
+        "z": 70.10341
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Wall 3",
+      "ObjectId": -275080,
+      "ParentId": -42622,
+      "Position": {
+        "x": 48.87,
+        "y": -3.2731,
+        "z": -46.6802
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 16.5957127,
+        "z": 70.10341
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Wall 2",
+      "ObjectId": -276832,
+      "ParentId": -42622,
+      "Position": {
+        "x": 29.4968,
+        "y": -3.27310181,
+        "z": -11.76
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 270.000183,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 16.5957127,
+        "z": 39.00762
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Wall 4",
+      "ObjectId": -279594,
+      "ParentId": -42622,
+      "Position": {
+        "x": 29.4968,
+        "y": -3.27310181,
+        "z": -81.56
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 270.000183,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 16.5957127,
+        "z": 39.00762
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Roof and Floor",
+      "ObjectId": -89938,
+      "ParentId": -51108,
+      "Position": {
+        "x": -14.91,
+        "y": 27.97,
+        "z": -139.47
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Roof",
+      "ObjectId": -77292,
+      "ParentId": -89938,
+      "Position": {
+        "x": 0.0,
+        "y": 16.33,
+        "z": -15.5513
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 0.2,
+        "y": 39.0,
+        "z": 70.09736
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Floor",
+      "ObjectId": -259342,
+      "ParentId": -89938,
+      "Position": {
+        "x": 0.0221,
+        "y": 0.0,
+        "z": -15.5555
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 0.2,
+        "y": 38.9571075,
+        "z": 70.10179
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Jails",
+      "ObjectId": -91522,
+      "ParentId": -51108,
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "PARAPEDIK",
+      "ObjectId": -193548,
+      "ParentId": -91522,
+      "Position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "BALKA",
+      "ObjectId": -173376,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 37.6539955,
+        "z": -151.5604
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.100000009,
+        "y": 31.6350327,
+        "z": 0.100000016
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR",
+      "ObjectId": -182134,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -125.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (1)",
+      "ObjectId": -195146,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -130.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (2)",
+      "ObjectId": -196670,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -135.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (3)",
+      "ObjectId": -197278,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -140.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (4)",
+      "ObjectId": -197794,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -145.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (5)",
+      "ObjectId": -198582,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -150.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (6)",
+      "ObjectId": -199058,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -155.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (7)",
+      "ObjectId": -199630,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -160.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (8)",
+      "ObjectId": -200074,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -165.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (9)",
+      "ObjectId": -200534,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -170.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (10)",
+      "ObjectId": -201066,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -175.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (11)",
+      "ObjectId": -201482,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -179.0
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "UPOR (12)",
+      "ObjectId": -202030,
+      "ParentId": -193548,
+      "Position": {
+        "x": -21.371994,
+        "y": 36.6500053,
+        "z": -183.136
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0500000045,
+        "y": 1.0,
+        "z": 0.100000009
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "989898FF"
+      }
+    },
+    {
+      "Name": "Level",
+      "ObjectId": -93074,
+      "ParentId": -91522,
+      "Position": {
+        "x": -27.8,
+        "y": 35.99,
+        "z": -155.0235
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 0.75,
+        "y": 13.0,
+        "z": 70.0463638
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Rooms",
+      "ObjectId": -105916,
+      "ParentId": -91522,
+      "Position": {
+        "x": -7.479803,
+        "y": 34.3413658,
+        "z": -128.00856
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Room 1",
+      "ObjectId": -146408,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall",
+      "ObjectId": -106512,
+      "ParentId": -146408,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.5032,
+        "z": -1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.59328,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 2",
+      "ObjectId": -146918,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -129440,
+      "ParentId": -146918,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.5002,
+        "z": -10.0892868
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.588,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 3 ",
+      "ObjectId": -147518,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -130208,
+      "ParentId": -147518,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.4974,
+        "z": -18.489296
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.58096,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 4",
+      "ObjectId": -147558,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -133504,
+      "ParentId": -147558,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.4974,
+        "z": -26.88929
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.58096,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 5",
+      "ObjectId": -147582,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -134204,
+      "ParentId": -147582,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.4974,
+        "z": -35.2892838
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.58096,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 6",
+      "ObjectId": -147606,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.9562778,
+        "y": -1.70656586,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -135032,
+      "ParentId": -147606,
+      "Position": {
+        "x": -11.9437141,
+        "y": 3.4974,
+        "z": -43.6892929
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.58096,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Room 7",
+      "ObjectId": -148672,
+      "ParentId": -105916,
+      "Position": {
+        "x": -10.95627,
+        "y": -1.70656967,
+        "z": 1.68929291
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "BlockType": 0
+    },
+    {
+      "Name": "Wall ",
+      "ObjectId": -143052,
+      "ParentId": -148672,
+      "Position": {
+        "x": -11.943716,
+        "y": 3.4974,
+        "z": -52.0893021
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 8.0,
+        "y": 16.58096,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "General KOZIRYOK 2",
+      "ObjectId": -152644,
+      "ParentId": -105916,
+      "Position": {
+        "x": -19.13,
+        "y": 8.4361,
+        "z": -21.3158
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 3.32136631,
+        "y": 58.61775,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "General KOZIRYOK 1",
+      "ObjectId": -166558,
+      "ParentId": -105916,
+      "Position": {
+        "x": -19.13,
+        "y": -0.2989,
+        "z": -21.215
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 3.5976,
+        "y": 58.5086021,
+        "z": 0.5
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    }
+  ]
+}

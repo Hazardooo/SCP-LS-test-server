@@ -1,0 +1,1795 @@
+{
+  "RootObjectId": 23072,
+  "Blocks": [
+    {
+      "Name": "Cube",
+      "ObjectId": 22576,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.0096545,
+        "y": 0.059609,
+        "z": 18.329
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 24.6732445,
+        "y": 0.0321501233,
+        "z": 30.5420532
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "0A671CFF"
+      }
+    },
+    {
+      "Name": "Cube (1)",
+      "ObjectId": 23162,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.0096546,
+        "y": 2.3991,
+        "z": 3.9223
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 11.814291,
+        "y": 4.71112,
+        "z": 0.08371813
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube (7)",
+      "ObjectId": 22756,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.34024,
+        "y": 5.0804,
+        "z": 32.463
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 25.2638226,
+        "y": 10.0737877,
+        "z": 0.08371813
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube (4)",
+      "ObjectId": 22816,
+      "ParentId": 23072,
+      "Position": {
+        "x": -0.0751,
+        "y": 5.0804,
+        "z": 3.9223
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 24.7588959,
+        "y": 10.0737877,
+        "z": 0.08371813
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube (10)",
+      "ObjectId": 23056,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.867,
+        "y": 5.0804,
+        "z": 18.5
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 30.159668,
+        "y": 10.0737877,
+        "z": 0.08371813
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube",
+      "ObjectId": -2408,
+      "ParentId": 23072,
+      "Position": {
+        "x": 10.8285,
+        "y": -0.04139185,
+        "z": 14.8834667
+      },
+      "Rotation": {
+        "x": 326.570953,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 2.0225,
+        "y": 2.2532,
+        "z": 4.31959772
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cube (11)",
+      "ObjectId": 22932,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.611,
+        "y": 5.0804,
+        "z": 18.42
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 30.0881176,
+        "y": 10.0737877,
+        "z": 0.08371813
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube (2)",
+      "ObjectId": 23314,
+      "ParentId": 23072,
+      "Position": {
+        "x": 5.4187,
+        "y": 1.0487,
+        "z": 18.56
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 13.0948324,
+        "y": 2.141968,
+        "z": 4.996985
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cylinder",
+      "ObjectId": 22846,
+      "ParentId": 23072,
+      "Position": {
+        "x": -8.2905,
+        "y": 3.8185,
+        "z": 11.743
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 3.9046216,
+        "y": 3.56700635,
+        "z": 3.9046216
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cylinder (1)",
+      "ObjectId": 22782,
+      "ParentId": 23072,
+      "Position": {
+        "x": 3.7889,
+        "y": 3.8185,
+        "z": 25.466
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 3.9046216,
+        "y": 3.56700635,
+        "z": 3.9046216
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cylinder (2)",
+      "ObjectId": 23292,
+      "ParentId": 23072,
+      "Position": {
+        "x": -8.8239,
+        "y": 3.8185,
+        "z": 25.466
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 3.9046216,
+        "y": 3.56700635,
+        "z": 3.9046216
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cylinder (3)",
+      "ObjectId": 22936,
+      "ParentId": 23072,
+      "Position": {
+        "x": 3.0803,
+        "y": 3.8185,
+        "z": 11.743
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 3.9046216,
+        "y": 3.56700635,
+        "z": 3.9046216
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cube (3)",
+      "ObjectId": 22702,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.0096531,
+        "y": 0.54437,
+        "z": 21.729
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 51.8806458,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.92751,
+        "y": 0.92751,
+        "z": 0.92751
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FF8600FF"
+      }
+    },
+    {
+      "Name": "Cube (4)",
+      "ObjectId": 22748,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.0096531,
+        "y": 1.3375,
+        "z": 21.729
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 51.8806458,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.7471556,
+        "y": 0.7471556,
+        "z": 0.7471556
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FF8600FF"
+      }
+    },
+    {
+      "Name": "Cube (8)",
+      "ObjectId": 22944,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.0096545,
+        "y": 9.48,
+        "z": 18.329
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 24.6732445,
+        "y": 0.0321501233,
+        "z": 30.5420532
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "0A671CFF"
+      }
+    },
+    {
+      "Name": "Cube (20)",
+      "ObjectId": 22994,
+      "ParentId": 23072,
+      "Position": {
+        "x": -2.3996,
+        "y": 1.3346,
+        "z": 8.4215
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 4.53489351,
+        "y": 2.73034835,
+        "z": 0.146591932
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Cube (21)",
+      "ObjectId": 22876,
+      "ParentId": 23072,
+      "Position": {
+        "x": -2.3996,
+        "y": 1.3346,
+        "z": 27.663
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 4.53489351,
+        "y": 2.73034835,
+        "z": 0.146591932
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Workstation",
+      "ObjectId": 22850,
+      "ParentId": 23072,
+      "Position": {
+        "x": -2.3,
+        "y": 0.0,
+        "z": 27.71
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "BlockType": 4,
+      "Properties": {
+        "IsInteractable": true
+      }
+    },
+    {
+      "Name": "LightSource",
+      "ObjectId": 22596,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.673,
+        "y": 1.57250786,
+        "z": 25.4492664
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule",
+      "ObjectId": 23176,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.873,
+        "y": 1.57250786,
+        "z": 25.4492664
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (1)",
+      "ObjectId": 22962,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.873,
+        "y": 1.622508,
+        "z": 25.4492664
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (2)",
+      "ObjectId": 22770,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.873,
+        "y": 1.51250744,
+        "z": 25.4492664
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (3)",
+      "ObjectId": 23254,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.873,
+        "y": 1.57250786,
+        "z": 25.4492664
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource",
+      "ObjectId": 23232,
+      "ParentId": 23072,
+      "Position": {
+        "x": -1.34123921,
+        "y": 1.57250786,
+        "z": 18.4842663
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 0.7,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule",
+      "ObjectId": 23042,
+      "ParentId": 23072,
+      "Position": {
+        "x": -1.14123917,
+        "y": 1.57250786,
+        "z": 18.4842663
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "LightSource (1)",
+      "ObjectId": 23202,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.18328047,
+        "y": 1.57250786,
+        "z": 11.7873383
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (4)",
+      "ObjectId": 23096,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.38311529,
+        "y": 1.57250786,
+        "z": 11.7782173
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 357.385284,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999973,
+        "y": 0.300000072,
+        "z": 0.300000042
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (5)",
+      "ObjectId": 23140,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.383108,
+        "y": 1.622508,
+        "z": 11.7782173
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 357.385284,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999973,
+        "y": 0.295000017,
+        "z": 0.0500000119
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (6)",
+      "ObjectId": 23244,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.383112,
+        "y": 1.51250744,
+        "z": 11.7782154
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 357.385284,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999973,
+        "y": 0.295000017,
+        "z": 0.0500000119
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (7)",
+      "ObjectId": 23166,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.38311529,
+        "y": 1.57250786,
+        "z": 11.7782173
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 357.385284,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.0499999933,
+        "y": 0.310000032,
+        "z": 0.32
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (1)",
+      "ObjectId": 22920,
+      "ParentId": 23072,
+      "Position": {
+        "x": -1.14123917,
+        "y": 1.622508,
+        "z": 18.4842663
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (2)",
+      "ObjectId": 22880,
+      "ParentId": 23072,
+      "Position": {
+        "x": -1.14123917,
+        "y": 1.51250744,
+        "z": 18.4842663
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (3)",
+      "ObjectId": 23324,
+      "ParentId": 23072,
+      "Position": {
+        "x": -1.14123917,
+        "y": 1.57250786,
+        "z": 18.4842663
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (2)",
+      "ObjectId": 22602,
+      "ParentId": 23072,
+      "Position": {
+        "x": 0.946,
+        "y": 1.57,
+        "z": 11.66
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (8)",
+      "ObjectId": 22660,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.146,
+        "y": 1.56999969,
+        "z": 11.66
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (9)",
+      "ObjectId": 23020,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.146,
+        "y": 1.61999989,
+        "z": 11.66
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (10)",
+      "ObjectId": 23150,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.146,
+        "y": 1.50999928,
+        "z": 11.66
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (11)",
+      "ObjectId": 22692,
+      "ParentId": 23072,
+      "Position": {
+        "x": 1.146,
+        "y": 1.56999969,
+        "z": 11.66
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (3)",
+      "ObjectId": 23122,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.71024132,
+        "y": 1.57250786,
+        "z": 25.3301373
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (12)",
+      "ObjectId": 23108,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.91,
+        "y": 1.57250786,
+        "z": 25.34
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 2.82639432,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (13)",
+      "ObjectId": 22712,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.90999937,
+        "y": 1.622508,
+        "z": 25.3400021
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 2.82639432,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (14)",
+      "ObjectId": 22830,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.90999937,
+        "y": 1.51250744,
+        "z": 25.3400021
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 2.82639432,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (15)",
+      "ObjectId": 22806,
+      "ParentId": 23072,
+      "Position": {
+        "x": -6.91,
+        "y": 1.57250786,
+        "z": 25.34
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 2.82639432,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (4)",
+      "ObjectId": 23088,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.578,
+        "y": 3.57199955,
+        "z": 18.58
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (16)",
+      "ObjectId": 23280,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.778,
+        "y": 3.57199955,
+        "z": 18.58
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (17)",
+      "ObjectId": 22972,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.778,
+        "y": 3.622,
+        "z": 18.58
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (18)",
+      "ObjectId": 22760,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.778,
+        "y": 3.51199913,
+        "z": 18.58
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (19)",
+      "ObjectId": 22890,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.778,
+        "y": 3.57199955,
+        "z": 18.58
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Workstation (1)",
+      "ObjectId": 23298,
+      "ParentId": 23072,
+      "Position": {
+        "x": -2.619,
+        "y": 0.0,
+        "z": 8.422468
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "BlockType": 4,
+      "Properties": {
+        "IsInteractable": true
+      }
+    },
+    {
+      "Name": "LightSource (5)",
+      "ObjectId": 23210,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.587,
+        "y": 1.57250786,
+        "z": 28.75
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (20)",
+      "ObjectId": 22670,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.57250786,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (21)",
+      "ObjectId": 22866,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.622508,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (22)",
+      "ObjectId": 23128,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.51250744,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (23)",
+      "ObjectId": 22564,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.57250786,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (6)",
+      "ObjectId": 23308,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.3670683,
+        "y": 1.57250786,
+        "z": 28.7450047
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (24)",
+      "ObjectId": 22854,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.567,
+        "y": 1.57250786,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (25)",
+      "ObjectId": 22786,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.567,
+        "y": 1.622508,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (26)",
+      "ObjectId": 23060,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.567,
+        "y": 1.51250744,
+        "z": 28.7499981
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (27)",
+      "ObjectId": 23222,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.567,
+        "y": 1.57250786,
+        "z": 28.75
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (7)",
+      "ObjectId": 22582,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.4120684,
+        "y": 1.56999969,
+        "z": 6.24200439
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (28)",
+      "ObjectId": 22722,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.612,
+        "y": 1.57,
+        "z": 6.247
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (29)",
+      "ObjectId": 22906,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.612,
+        "y": 1.61999989,
+        "z": 6.24699974
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (30)",
+      "ObjectId": 22636,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.612,
+        "y": 1.50999928,
+        "z": 6.246998
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Cube (1)",
+      "ObjectId": -3948,
+      "ParentId": 23072,
+      "Position": {
+        "x": 10.8285,
+        "y": -0.0824918747,
+        "z": 22.1342659
+      },
+      "Rotation": {
+        "x": 35.9442558,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 2.0225,
+        "y": 2.2532,
+        "z": 4.31959772
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Capsule (31)",
+      "ObjectId": 22650,
+      "ParentId": 23072,
+      "Position": {
+        "x": -11.612,
+        "y": 1.56999969,
+        "z": 6.24699974
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 1.431231,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "LightSource (8)",
+      "ObjectId": 23082,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.587,
+        "y": 1.56999969,
+        "z": 7.927
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "674815FF",
+        "Intensity": 3.0,
+        "Range": 14.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Capsule (32)",
+      "ObjectId": 22952,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.56999969,
+        "z": 7.927
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "FFC440FF"
+      }
+    },
+    {
+      "Name": "Capsule (33)",
+      "ObjectId": 22732,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.61999989,
+        "z": 7.927
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (34)",
+      "ObjectId": 22620,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.50999928,
+        "z": 7.927
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.199999958,
+        "y": 0.295,
+        "z": 0.0500000045
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "Capsule (35)",
+      "ObjectId": 23192,
+      "ParentId": 23072,
+      "Position": {
+        "x": 11.787,
+        "y": 1.57,
+        "z": 7.927
+      },
+      "Rotation": {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.04999999,
+        "y": 0.31,
+        "z": 0.319999963
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 1,
+        "Color": "000000FF"
+      }
+    },
+    {
+      "Name": "CabinetMedkit",
+      "ObjectId": -7380,
+      "ParentId": 23072,
+      "Position": {
+        "x": -0.691633344,
+        "y": 0.0,
+        "z": 8.345
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "BlockType": 7,
+      "Properties": {
+        "LockerType": 4,
+        "Chambers": {
+          "0": [
+            {
+              "Item": "Medkit",
+              "Count": 1,
+              "Attachments": [],
+              "Chance": 100.0
+            }
+          ],
+          "1": []
+        },
+        "ShuffleChambers": true,
+        "AllowedRoleTypes": [
+          "Scp0492",
+          "Scp049",
+          "Scp096",
+          "Scp106",
+          "Scp173",
+          "Scp93953",
+          "Scp93989",
+          "ClassD",
+          "Scientist",
+          "FacilityGuard",
+          "NtfPrivate",
+          "NtfSergeant",
+          "NtfSpecialist",
+          "NtfCaptain",
+          "ChaosConscript",
+          "ChaosRifleman",
+          "ChaosRepressor",
+          "ChaosMarauder",
+          "Tutorial"
+        ],
+        "KeycardPermissions": 0,
+        "OpenedChambers": 0,
+        "InteractLock": false,
+        "Chance": 100.0
+      }
+    },
+    {
+      "Name": "CabinetMedkit (1)",
+      "ObjectId": -8176,
+      "ParentId": 23072,
+      "Position": {
+        "x": -0.691633344,
+        "y": 0.0,
+        "z": 27.733
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "BlockType": 7,
+      "Properties": {
+        "LockerType": 4,
+        "Chambers": {
+          "0": [
+            {
+              "Item": "Medkit",
+              "Count": 1,
+              "Attachments": [],
+              "Chance": 100.0
+            }
+          ],
+          "1": []
+        },
+        "ShuffleChambers": true,
+        "AllowedRoleTypes": [
+          "Scp0492",
+          "Scp049",
+          "Scp096",
+          "Scp106",
+          "Scp173",
+          "Scp93953",
+          "Scp93989",
+          "ClassD",
+          "Scientist",
+          "FacilityGuard",
+          "NtfPrivate",
+          "NtfSergeant",
+          "NtfSpecialist",
+          "NtfCaptain",
+          "ChaosConscript",
+          "ChaosRifleman",
+          "ChaosRepressor",
+          "ChaosMarauder",
+          "Tutorial"
+        ],
+        "KeycardPermissions": 0,
+        "OpenedChambers": 0,
+        "InteractLock": false,
+        "Chance": 100.0
+      }
+    }
+  ]
+}

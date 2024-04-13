@@ -60,7 +60,7 @@ better_coinflips:
   inventory_reset_message: '<color=red>''Ты потерял все вещи!'''
   class_swap_message: '<color=red>''Вот, что я называю Uno Reverse Card!'''
   instant_explosion_message: '<color=red>''РАЗРЫВНАЯ!!'''
-  player_swap_message: '<color=red>''Твой инвентарь был заменён со случайным игроком!.'''
+  player_swap_message: '<color=red>''Ты поменялся местами со случайным игроком!.'''
   player_swap_if_one_alive_message: '<color=red>''Ты должен был поменяться с кем-то местами, но никого нет в живых!'''
   kick_message: '<color=red>''Пока!'''
   spect_swap_player_message: '<color=red>''Ты сделал чей-то раунд лучше!'''
@@ -74,3 +74,8 @@ better_coinflips:
   random_teleport_message: '<color=red>''Ты был случайно телепортирован.'''
   random_teleport_warhead_detonated_message: '<color=red>''Боеголовка взорвана, но у тебя есть конфета.'''
   handcuff_message: '<color=red>''Вы были арестованы за, нуу, эмм... разжигание войны... или что-то такое...'''
+map_editor_reborn:
+  mode_creating: '<color=yellow>Mode:</color> <color=green>Creating</color>'
+  mode_deleting: '<color=yellow>Mode:</color> <color=red>Deleting</color>'
+  mode_selecting: '<color=yellow>Mode:</color> <color=yellow>Selecting</color>'
+  mode_copying: '<color=yellow>Mode:</color> <color=#34B4EB>Copying to the ToolGun</color>'
